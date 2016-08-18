@@ -1,3 +1,8 @@
+2016-08-18  Karl Berry  <karl@freefriends.org>
+
+	* faq-docs.tex (Q-maillists): mail-archive.com mia; replace
+	with link to new http://ctan.org/ctan-ann.
+
 2014-06-10  Robin Fairbairns  <rf10@cl.cam.ac.uk>
 
 	* texfaq2html: tidy blank lines
