@@ -1,3 +1,12 @@
+2018-05-18  Karl Berry  <karl@freefriends.org>
+
+	* faq-how-do-i.tex (Q-2colfloat): mention the nidanfloat package,
+	which solves the problem completely, and bb's article
+	http://tug.org/TUGboat/tb35-3/tb111beet-banner.pdf.
+
+	* markup-syntax.md: main text is in faq-*.tex, not newfaq.tex.
+	More hints for TUGboat and question cross-references.
+
 2016-08-18  Karl Berry  <karl@freefriends.org>
 
 	* faq-docs.tex (Q-maillists): mail-archive.com mia; replace

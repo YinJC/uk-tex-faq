@@ -29,7 +29,7 @@ Source of the text
 ------------------
 
 The text currently resides in 
- - `newfaq.tex`    The body of the text
+ - `faq-*.tex`     As listed in gather-faqbody.tex
  - `filectan.tex`  Declarations of the locations of individual files on
                    CTAN archives
  - `dirctan.tex`   Declarations of the directories on CTAN archives
@@ -82,10 +82,10 @@ mandatory, and must be prefixed by `Q-` (as in
 
     \Qref[intro-text]{anchor-text}{label}
 
-Refer to a question.  The `<intro-text>` is set before the reference,
-and is "see question" by default.  The `<anchor-text>` is used in
-hyper-enabled output, as the anchor for jumping to the labelled
-question.  The `<label>` is defined somewhere in the document as a
+Cross-reference to a question. The `<intro-text>` is set before the
+reference, and is "see question" by default. The `<anchor-text>` is used
+in hyper-enabled output, as the anchor for jumping to the labelled
+question. The `<label>` is defined somewhere in the document as a
 `\Question` command's (nominally) optional argument.
 
     \Qref*{anchor-text}{label}
@@ -99,10 +99,11 @@ Special care being taken with surrounding quotes.
 
     \TUGboat{} <vol>(<number>)
 
-_TUGboat_ reference (we have surprisingly many).  Really does have
-that syntax `\TUGboat{} 16(3)`, though as far as the HTML translator
-is concerned, the command ends at `\TUGboat{}` so it doesn't matter if
-it gets split across lines.
+_TUGboat_ reference (we have surprisingly many). Really does have that
+syntax `\TUGboat{} 16(3)`, though as far as the HTML translator is
+concerned, the command ends at `\TUGboat{}` so it doesn't matter if it
+gets split across lines. Use `\href{http://tug.org/TUGboat/...}{Article
+title}' to directly link to a published article.
 
     \begin{booklist}
     ...
