@@ -154,11 +154,9 @@ function faq_convert_line (line)
     line=string.gsub(line,"\\pi([^%a])","&pi;%1")
     line=string.gsub(line,"\\@([^%a])","%1")
 
-    line=string.gsub(line,"``","&ldquo;")
-    line=string.gsub(line,"''","&rdquo;")
+    line=string.gsub(line,"``","''")
 
-    line=string.gsub(line,"`","&lsquo;")
-    line=string.gsub(line,"'","&rsquo;")
+    line=string.gsub(line,"`","'")
 
     line=string.gsub(line,"%%.*","")
 
