@@ -318,7 +318,7 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
     line=string.gsub(line,"\\href[%* ]*(%b{})(%b{})","[QQQ%2ZZZ](QQQ%1ZZZ)")
     line=string.gsub(line,"\\Qref[*]?(%[\\htmlonly%])(%b{})(%b{})","[QQQ%2ZZZ](FAQQQ%3ZZZ.html)")
     line=string.gsub(line,"\\Qref[*]?(%b[])(%b{})(%b{})","[QQQ%2ZZZ](FAQQQ%3ZZZ.html)")
-    line=string.gsub(line,"\\Qref[*]?(%b{})(%b{})","[QQQ%1ZZZ](FAQQQ%2ZZZ.html)")
+    line=string.gsub(line,"\\Qref[*]?(%b{})(%b{})","[QQQ%1ZZZ](./FAQQQ%2ZZZ.html)")
     if string.match(line,"\\CTANref") then line = "" end 
 
     line=string.gsub(line,"\\includegraphics[ ]*{([^{}]*%.png)}","<img alt=\"%1\" src=\"%1\">")
