@@ -3,9 +3,6 @@ function file_to_md (filename)
   qid=nil
   for line in io.lines(filename) do
 
-
-    line=string.gsub(line,"&","&amp;")
-
     if (not(quoteverbatim) and not(skipline) and string.match(line,"\\begin{verbatim}")) then
       line=string.gsub(line,"\\begin{verbatim}","<pre>")
       verbatim=true
