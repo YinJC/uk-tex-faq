@@ -4,25 +4,24 @@ function file_to_md (filename)
   for line in io.lines(filename) do
 
     if (not(quoteverbatim) and not(skipline) and string.match(line,"\\begin{verbatim}")) then
-      line=string.gsub(line,"\\begin{verbatim}","<pre>")
+      line=string.gsub(line,"\\begin{verbatim}","```latex")
       verbatim=true
     end
     if (not(skipline) and string.match(line,"\\begin{quoteverbatim}")) then
-      line=string.gsub(line,"\\begin{quoteverbatim}","<pre>")
+      line=string.gsub(line,"\\begin{quoteverbatim}","```latex")
       quoteverbatim=true
     end
 
     if (verbatim or quoteverbatim) then
     
       if (verbatim and string.match(line,"\\end{verbatim}")) then
-        line=string.gsub(line,"\\end{verbatim}","</pre>")
+        line=string.gsub(line,"\\end{verbatim}","```")
         verbatim=false
       end
       if (quoteverbatim and string.match(line,"\\end{quoteverbatim}")) then
-        line=string.gsub(line,"\\end{quoteverbatim}","</pre>")
+        line=string.gsub(line,"\\end{quoteverbatim}","```")
         quoteverbatim=false
       end
-
 
     else -- not verbatim
 
