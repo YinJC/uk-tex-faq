@@ -272,24 +272,24 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
      string.gsub(string.gsub(string.gsub(s,"\\","&#x5c;"),"{","&#x7b;"),"}","&#x7d;") ..
      "</code>"
     end)-- short verb allowed?
-    line=string.gsub(line,"\\textsf[ ]*(%b{})","<span class=\"sans\">QQQ%1ZZZ</span>")
-    line=string.gsub(line,"\\textup[ ]*(%b{})","<span class=\"up\">QQQ%1ZZZ</span>")
-    line=string.gsub(line,"\\textsl[ ]*(%b{})","<i class=\"slanted\">QQQ%1ZZZ</i>")
-    line=string.gsub(line,"{}\\texttt[ ]*(%b{})","<tt>QQQ%1ZZZ</tt>")-- breaking -- ligs
-    line=string.gsub(line,"\\texttt[ ]*(%b{})","<tt>QQQ%1ZZZ</tt>")
-    line=string.gsub(line,"\\path[ ]*(%b{})","<tt class=\"path\">QQQ%1ZZZ</tt>")
-    line=string.gsub(line,"\\emph[ ]*(%b{})","<em>QQQ%1ZZZ</em>")
-    line=string.gsub(line,"\\textbf[ ]*(%b{})","<b>QQQ%1ZZZ</b>")
-    line=string.gsub(line,"\\textit[ ]*(%b{})","<i>QQQ%1ZZZ</i>")
-    line=string.gsub(line,"\\paragraph[ ]*(%b{})","<b>QQQ%1ZZZ</b> ")
+    line=string.gsub(line,"\\textsf[ ]*(%b{})","QQQ%1ZZZ")
+    line=string.gsub(line,"\\textup[ ]*(%b{})","QQQ%1ZZZ")
+    line=string.gsub(line,"\\textsl[ ]*(%b{})","_QQQ%1ZZZ_")
+    line=string.gsub(line,"{}\\texttt[ ]*(%b{})","`QQQ%1ZZZ`")-- breaking -- ligs
+    line=string.gsub(line,"\\texttt[ ]*(%b{})","`QQQ%1ZZZ`")
+    line=string.gsub(line,"\\path[ ]*(%b{})","`QQQ%1ZZZ`")
+    line=string.gsub(line,"\\emph[ ]*(%b{})","_QQQ%1ZZZ_")
+    line=string.gsub(line,"\\textbf[ ]*(%b{})","*QQQ%1ZZZ*")
+    line=string.gsub(line,"\\textit[ ]*(%b{})","_QQQ%1ZZZ_")
+    line=string.gsub(line,"\\paragraph[ ]*(%b{})","#### QQQ%1ZZZ\n")
 
-    line=string.gsub(line,"\\ISBN%*(%b{})(%b{})","<span class=\"isbn\">ISBN-10 QQQ%1ZZZ</span>, <span class=\"isbn\">ISBN-13 QQQ%1ZZZ</span>")
-    line=string.gsub(line,"\\ISBN(%b{})","<span class=\"isbn\">ISBN-10 QQQ%1ZZZ</span>")
+    line=string.gsub(line,"\\ISBN%*(%b{})(%b{})","ISBN-10 QQQ%1ZZZ, ISBN-13 QQQ%1ZZZ")
+    line=string.gsub(line,"\\ISBN(%b{})","ISBN-10 QQQ%1ZZZ")
 
-    line=string.gsub(line,"\\\\%b[]","<br>")
-    line=string.gsub(line,"\\\\","<br>")
-    line=string.gsub(line,"\\,","&thinsp;")
-    line=string.gsub(line,"\\quad ","&nbsp;")
+    line=string.gsub(line,"\\\\%b[]","\n\n")
+    line=string.gsub(line,"\\\\","\n\n")
+    line=string.gsub(line,"\\,"," ")
+    line=string.gsub(line,"\\quad ","\n\n")
     line=string.gsub(line,"\\ "," ")
     line=string.gsub(line,"\\[be]group([^%a])","%1")
     
