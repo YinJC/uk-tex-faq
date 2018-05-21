@@ -307,7 +307,7 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","`\\QQQ%2ZZZ{QQQ%3ZZZ}`")
 
     line=string.gsub(line,"\\Email[ ]*(%b{})","<a href=\"mailto:QQQ%1ZZZ\">QQQ%1ZZZ</a>")-- hmm
     line=string.gsub(line,"\\mailto[ ]*(%b{})","<a href=\"mailto:QQQ%1ZZZ\">QQQ%1ZZZ</a>")-- hmm
-    line=string.gsub(line,"\\URL[ ]*(%b{})","[QQQ%1]")-- hmm
+    line=string.gsub(line,"\\URL[ ]*(%b{})","[QQQ%1ZZZ]")-- hmm
     line=string.gsub(line,"\\url[ ]*(%b{})","[QQQ%1ZZZ]")
     line=string.gsub(line,"\\href[%* ]*(%b{})(%b{})","[QQQ%2ZZZ](QQQ%1ZZZ)")
     line=string.gsub(line,"\\Qref[*]?(%[\\htmlonly%])(%b{})(%b{})","[QQQ%2ZZZ](FAQQQ%3ZZZ.html)")
