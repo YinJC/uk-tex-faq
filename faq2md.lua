@@ -111,8 +111,8 @@ function file_to_md (filename)
 end
 
 function faq_convert_line (line)
-    line=string.gsub(line,"^[ ]*$","\n<p>")
-    line=string.gsub(line,"\\par{}","\n<p>") --why?
+    line=string.gsub(line,"^[ ]*$","\n")
+    line=string.gsub(line,"\\par{}","\n") --why?
 
     line=string.gsub(line,"%-%-%-","&mdash;")
     line=string.gsub(line,"%-%-","&ndash;")
