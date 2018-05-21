@@ -160,12 +160,21 @@ other way than their conversion to an outline font format.
 The \MP{} system (by John Hobby) implements a picture-drawing language
 very much like that of \MF{}; the difference is that \MP{} outputs
 vector graphic files instead of run-length-encoded bitmaps; output
-formats available are \PS{} or \acro{SVG}
-\MP{}
-is a powerful language for producing figures for documents to be
+formats available are \PS{} and \acro{SVG}.  Around 2007, \MP{} was
+separated into a frontend program and backend library named MPlib (which
+was then linked into
+\begin{hyperversion}
+  \Qref*{\LuaTeX{}}{Q-luatex})
+\end{hyperversion}
+\begin{flatversion}
+  \LuaTeX{})
+\end{flatversion}
+by Taco Hoekwater.
+
+\MP{} is a powerful language for producing figures for documents to be
 printed on \PS{} printers, either directly or embedded in \AllTeX{}
 documents.  \MP{} is able to integrate text and mathematics, marked up
-for use with \TeX{}, within the graphics.  (Knuth tells us that he
+for use with \TeX{}, within the graphics.  (Knuth says that he
 uses nothing but \MP{} for diagrams in text that he is writing.)
 
 Although \PDFLaTeX{} cannot ordinarily handle \PS{} graphics, the

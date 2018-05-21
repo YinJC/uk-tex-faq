@@ -1,5 +1,3 @@
-% $Id: faq-how-do-i.tex,v 1.47 2014/01/28 18:17:23 rf10 Exp $
-
 \section{How do I do\dots{}?}
 
 \subsection{Mathematics}
@@ -1977,7 +1975,16 @@ it \emph{is} what the documentation says: \LaTeX{}, unadorned, only
 allows full-width floats at the top of a page, or occupying (part of) a
 float page.
 
-The \Package{stfloats} package ameliorates the situation somewhat, and
+The package \Package{nidanfloat} supports `\texttt{[b]}' placement of a
+full-width figure in a two-column document even on the first page of a
+document.
+
+Barbara Beeton's article
+\href{http://tug.org/TUGboat/tb35-3/tb111beet-banner.pdf}Placing a
+full-width insert at the bottom of two columns} in \TUGboat{} 35(3)
+gives a manual method for doing the same.
+
+The \Package{stfloats} package also ameliorates the situation somewhat, and
 makes \LaTeX{} honour `[b]' placement as well; the
 \Package{dblfloatfix} package combines a tidied version of the changes
 made in \Package{stfloats} with the
