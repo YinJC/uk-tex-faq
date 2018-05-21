@@ -86,18 +86,15 @@ equally well to tables, or to &ldquo;non-standard&rdquo; floats defined by the
   also admits that the package is somewhat fragile.  Use it as a last
   resort if the other possibilities below don&rsquo;t help.
 <li> If you would actually <em>like</em> great blocks of floats at the
-  end of each of your chapters, try the <i class="package">morefloats</i> package;
+  end of each of your chapters, try the <code>&#x5c;extrafloats</code> command,
+  or in older LaTeX releases, the <i class="package">morefloats</i> package;
   this allows you to increase the number of floating inserts that LaTeX
-  can handle at one time (from its original value of&nbsp;18, in
-  LaTeX 2e).  Note that, even with e-TeX&rsquo;s greater supply of
-  registers, there is still a modest limit on the total number of
-  floating inserts (e-TeX increases the total number of registers
-  available, but inserts don&rsquo;t work if they are constructed from
-  registers in the extended range).
+  can handle at one time (from its original value of 18 or, now, 52, in
+  LaTeX 2e).
 
 <p>
-  Caveat: if you are using <i class="package">etex</i> to increase the number of
-  registers available, you need to &ldquo;reserve&rdquo; some inserts for
+  Caveat: if you are using <i class="package">etex</i> package to increase the number of
+  registers available on old releases, you need to &ldquo;reserve&rdquo; some inserts for
   <i class="package">morefloats</i>: something like:
   <blockquote>
 <pre>

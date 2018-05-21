@@ -51,23 +51,27 @@ Techniques for solving the problem are discussed in the
 <a href="FAQ-floats.html">floats question</a> already referenced.
 
 <p>
-An alternative <em>may</em> be to use the <i class="package">morefloats</i> package.
+For LaTeX releases prior to 2015, an
+ alternative <em>may</em> be to use the <i class="package">morefloats</i> package.
 The package will allocate more &ldquo;float skeletons&rdquo; than LaTeX
 does by default; each such skeleton may then be used to store a
 float.  Beware that even with <i class="package">morefloats</i>, the number you can
-allocate is limited; even with the <i class="package">etex</i> package (which makes
-available many more registers, etc., than LaTeX does by default;
-e-TeX can create lots more registers, but none of those &ldquo;beyond
-the original TeX default&rdquo; may be used in float skeletons).  Thus,
-<i class="package">etex</i> may offer some relief, but it can <em>not</em> be
-regarded as a panacea
+allocate is limited; even with the <i class="package">etex</i> package.
+
+<p>
+LaTeX releases from 2015 onwards have an <code>&#x5c;extrafloats</code>
+command which (assuming an e-TeX format is being used) will
+allow many more float boxes to be allocated (the upper limit 
+being several thousand, rather more than can reasonably handled
+in tex macro lists.) Also the default number of floats that may be stored
+has been increased from 18 to 52.
 
 <p>
 The error also occurs in a long sequence of float environments, with
 no intervening text.  Unless the environments will fit &ldquo;here&rdquo; (and
 you&rsquo;ve allowed them to go &ldquo;here&rdquo;), there will never be a page break,
 and so there will never be an opportunity for LaTeX to reconsider
-placement.  (Of course, the floats can&rsquo;t all fit &ldquo;here&rdquo; if the
+placement.  Of course, the floats can&rsquo;t all fit &ldquo;here&rdquo; if the
 sequence is sufficiently prolonged: once the page fills, LaTeX
 won&rsquo;t place any more floats, leading to the error.
 

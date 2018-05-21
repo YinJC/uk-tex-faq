@@ -29,7 +29,7 @@ manipulate them, which allocate themselves one or more maths alphabet.
 <p>
 If you can&rsquo;t afford to drop any of these packages, you might be able
 to consider switching to use of <a href="FAQ-xetex.html">XeTeX</a> or
-<a href="FAQ-luatex.html">LuaTeX</a>, which both have 65536 alphabet slots
+<a href="FAQ-luatex.html">LuaTeX</a>, which both have 256 math alphabets
 available.  (Such a change is best not done when under pressure to
 complete a document; other issues, such as font availability) could
 make a change impractical.)
@@ -46,23 +46,29 @@ alphabets to be used.
 <p>
 Any reduction of the <code>&#x5c;<em>xx</em>max</code> variables will slow
 <i class="package">bm</i> down&nbsp;&mdash; but that&rsquo;s surely better than the document not
-running at all.  So unless you&rsquo;re using maths fonts (such as
-<i class="fontname">Mathtime Plus</i>) that feature a heavy symbol weight, suppress all
-use of heavy families by
-<blockquote>
-<pre>
-  \newcommand{\hmmax}{0}
-</pre>
-</blockquote>
-(before loading <i class="package">bm</i>), and then steadily reduce the bold
+running at all.
+Before loading <i class="package">bm</i>),  then steadily reduce the bold
 families, starting with 
 <blockquote>
 <pre>
   \newcommand{\bmmax}{3}
 </pre>
 </blockquote>
-(again before loading <i class="package">bm</i>), until (with a bit of luck) the
-error goes away.
+until (with a bit of luck) the error goes away.
+
+<p>
+If  you&rsquo;re using maths fonts (such as
+<i class="fontname">Mathtime Plus</i>) that feature a heavy symbol weight,
+you may want to suppress all use of heavy families by <i class="package">bm</i> by
+similarly setting
+<blockquote>
+<pre>
+  \newcommand{\hmmax}{0}
+</pre>
+</blockquote>
+Before loading the package.
+
+<p>
 <dl>
 <dt class="ctanref">bm.sty</dt><dd>Distributed as part of <a class="ctan" href="https://www.ctan.org/pkg/bm">2etools</a>
 </dl>
