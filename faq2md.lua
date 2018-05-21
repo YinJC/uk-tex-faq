@@ -148,7 +148,7 @@ function faq_convert_line (line)
     line=string.gsub(line,"\\'([aoe])","&%1acute;")
     line=string.gsub(line,"\\\"([aoeu])","&%1uml;")
     line=string.gsub(line,"\\^([aoe])","&%1circ;")
-    line=string.gsub(line,"\\&amp;","&amp;")
+    line=string.gsub(line,"\\&amp;","&")
     line=string.gsub(line,"\\pi([^%a])","&pi;%1")
     line=string.gsub(line,"\\@([^%a])","%1")
 
