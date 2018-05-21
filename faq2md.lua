@@ -315,14 +315,14 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
 
     line=string.gsub(line,"\\Email[ ]*(%b{})","<a href=\"mailto:QQQ%1ZZZ\">QQQ%1ZZZ</a>")-- hmm
     line=string.gsub(line,"\\mailto[ ]*(%b{})","<a href=\"mailto:QQQ%1ZZZ\">QQQ%1ZZZ</a>")-- hmm
-    line=string.gsub(line,"\\URL[ ]*(%b{})","<a href=\"QQQ%1ZZZ\">QQQ%1ZZZ</a>")-- hmm
-    line=string.gsub(line,"\\url[ ]*(%b{})","<a href=\"QQQ%1ZZZ\">QQQ%1ZZZ</a>")
+    line=string.gsub(line,"\\URL[ ]*(%b{})","[QQQ%1]")-- hmm
+    line=string.gsub(line,"\\url[ ]*(%b{})","[QQQ%1ZZZ]")
     line=string.gsub(line,"\\href[%* ]*(%b{})(%b{})","<a href=\"QQQ%1ZZZ\">QQQ%2ZZZ</a>")
     line=string.gsub(line,"\\Qref[*]?(%[\\htmlonly%])(%b{})(%b{})","<a href=\"FAQQQ%3ZZZ.html\">QQQ%2ZZZ</a>")
     line=string.gsub(line,"\\Qref[*]?(%b[])(%b{})(%b{})","<a class=\"FAQQQ%1ZZZ.html\" href=\"FAQQQ%3ZZZ.html\">QQQ%2ZZZ</a>")
     line=string.gsub(line,"\\Qref[*]?(%b{})(%b{})","<a href=\"FAQQQ%2ZZZ.html\">QQQ%1ZZZ</a>")
-    line=string.gsub(line,"\\CTANref(%b{})(%b[])","<a class=\"ctan\" href=\"https://www.ctan.org/pkg/QQQ%2ZZZ\">QQQ%1ZZZ</a>")-- latex packages in a larger ctan package
-    line=string.gsub(line,"\\CTANref(%b{})","<a class=\"ctan\" href=\"https://www.ctan.org/pkg/QQQ%1ZZZ\">QQQ%1ZZZ</a>")
+    line=string.gsub(line,"\\CTANref(%b{})(%b[])","")-- latex packages in a larger ctan package
+    line=string.gsub(line,"\\CTANref(%b{})","")
 
     line=string.gsub(line,"\\includegraphics[ ]*{([^{}]*%.png)}","<img alt=\"%1\" src=\"%1\">")
 
