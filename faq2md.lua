@@ -337,39 +337,39 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
     line=string.gsub(line,"\\end{quote}","")
 
     if (string.match(line,"\\begin{ctanrefs}")) then
-      line=string.gsub(line,"\\begin{ctanrefs}","<dl>")
+      line=string.gsub(line,"\\begin{ctanrefs}","\n")
       ctanrefs=true
     end
     if (string.match(line,"\\end{ctanrefs}")) then
-      line=string.gsub(line,"\\end{ctanrefs}","</dl>")
+      line=string.gsub(line,"\\end{ctanrefs}","\b")
       ctanrefs=false
     end
     if(ctanrefs and string.match(line,"\\item")) then
-      line=string.gsub(line,"\\item[ ]*(%b[])","<dt class=\"ctanref\">QQQ%1ZZZ</dt><dd>")
+      line=string.gsub(line,"\\item[ ]*(%b[])","- QQQ%1ZZZ")
     end
 
 
     if (string.match(line,"\\begin{description}") or
         string.match(line,"\\begin{booklist}") ) then
-      line=string.gsub(line,"\\begin%b{}","<dl>")
+      line=string.gsub(line,"\\begin%b{}","\n")
       description=true
     end
     if (string.match(line,"\\end{description}") or
         string.match(line,"\\end{booklist}") ) then
-      line=string.gsub(line,"\\end%b{}","</dl>")
+      line=string.gsub(line,"\\end%b{}","\n")
       description=false
     end
     if(description and string.match(line,"\\item")) then
-      line=string.gsub(line,"\\item[ ]*(%b[])","<dt class=\"description\">QQQ%1ZZZ</dt><dd>")
+      line=string.gsub(line,"\\item[ ]*(%b[])","- QQQ%1ZZZ")
     end
 
 
-    line=string.gsub(line,"\\begin{itemize}","<ul>")
-    line=string.gsub(line,"\\end{itemize}","</ul>")
-    line=string.gsub(line,"\\begin{enumerate}","<ol>")
-    line=string.gsub(line,"\\end{enumerate}","</ol>")
+    line=string.gsub(line,"\\begin{itemize}","\n")
+    line=string.gsub(line,"\\end{itemize}","\n")
+    line=string.gsub(line,"\\begin{enumerate}","\n")
+    line=string.gsub(line,"\\end{enumerate}","\n")
 
-    line=string.gsub(line,"\\item","<li>")
+    line=string.gsub(line,"\\item","- ")
 
     line=string.gsub(line,"[ ]*\\begin{footnoteenv}","<sup class=\"fmk\">&dagger;</sup><span class=\"footnote\">&dagger; ")
     line=string.gsub(line,"\\end{footnoteenv}","</span>")
