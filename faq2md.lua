@@ -242,7 +242,7 @@ function faq_convert_line (line)
     line=string.gsub(line,"\\FontFormat[ ]*{([^{}]*)}","`%1`")
     line=string.gsub(line,"\\pkgoption[ ]*{([^{}]*)}","`%1`")
     line=string.gsub(line,"\\environment[ ]*{([^{}]*)}","`%1`")
-    line=string.gsub(line,"\\meta[ ]*(%b{})","&lsaquo;<i>QQQ%1ZZZ</i>&rsaquo;")
+    line=string.gsub(line,"\\meta[ ]*(%b{})","&lsaquo;_QQQ%1ZZZ_&rsaquo;")
     line=string.gsub(line,"\\acro[ ]*{([^{}]*)}","%1")
     line=string.gsub(line,"\\ensuremath[ ]*{([^{}]*)}","%1")
 
