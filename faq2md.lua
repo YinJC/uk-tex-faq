@@ -274,15 +274,15 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
     line=string.gsub(line,"\\emph[ ]*(%b{})","_QQQ%1ZZZ_")
     line=string.gsub(line,"\\textbf[ ]*(%b{})","*QQQ%1ZZZ*")
     line=string.gsub(line,"\\textit[ ]*(%b{})","_QQQ%1ZZZ_")
-    line=string.gsub(line,"\\paragraph[ ]*(%b{})","#### QQQ%1ZZZ\n")
+    line=string.gsub(line,"\\paragraph[ ]*(%b{})","#### QQQ%1ZZZ")
 
     line=string.gsub(line,"\\ISBN%*(%b{})(%b{})","ISBN-10 QQQ%1ZZZ, ISBN-13 QQQ%1ZZZ")
     line=string.gsub(line,"\\ISBN(%b{})","ISBN-10 QQQ%1ZZZ")
 
-    line=string.gsub(line,"\\\\%b[]","\n\n")
-    line=string.gsub(line,"\\\\","\n\n")
+    line=string.gsub(line,"\\\\%b[]","\n")
+    line=string.gsub(line,"\\\\","\n")
     line=string.gsub(line,"\\,"," ")
-    line=string.gsub(line,"\\quad ","\n\n")
+    line=string.gsub(line,"\\quad ","\n")
     line=string.gsub(line,"\\ "," ")
     line=string.gsub(line,"\\[be]group([^%a])","%1")
     
