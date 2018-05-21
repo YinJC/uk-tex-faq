@@ -246,30 +246,24 @@ function faq_convert_line (line)
     line=string.gsub(line,"\\acro[ ]*{([^{}]*)}","%1")
     line=string.gsub(line,"\\ensuremath[ ]*{([^{}]*)}","%1")
 
-    line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})(%b{})(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</code><code>&#x7b;QQQ%3ZZZ&#x7d;</code><code>&#x7b;QQQ%4ZZZ&#x7d;</code><code>&#x7b;QQQ%5ZZZ&#x7d;</code><code>&#x7b;QQQ%6ZZZ&#x7d;</code>")
-    line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</code><code>&#x7b;QQQ%3ZZZ&#x7d;</code><code>&#x7b;QQQ%4ZZZ&#x7d;</code><code>&#x7b;QQQ%5ZZZ&#x7d;</code>")
-line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</code><code>&#x7b;QQQ%3ZZZ&#x7d;</code></code><code>&#x7b;QQQ%4ZZZ&#x7d;</code>")
-    line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b[])(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</code><code>%3</code></code><code>&#x7b;QQQ%4ZZZ&#x7d;</code><code>&#x7b;QQQ%5ZZZ&#x7d;</code>")
-    line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b[])(%b{})","<code>&#x5c;QQQ%2ZZZ</code><code>%3</code></code><code>&#x7b;QQQ%4ZZZ&#x7d;</code>")
+    line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})(%b{})(%b{})(%b{})","`\\QQQ%2ZZZ{QQQ%3ZZZ}{QQQ%4ZZZ}{QQQ%5ZZZ}{QQQ%6ZZZ}`")
+    line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})(%b{})(%b{})","`\\QQQ%2ZZZ{QQQ%3ZZZ}{QQQ%4ZZZ}{QQQ%5ZZZ}`")
+line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})(%b{})","`\\QQQ%2ZZZ{QQQ%3ZZZ}{QQQ%4ZZZ}`")
+    line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b[])(%b{})(%b{})","`\\QQQ%2ZZZ%3{QQQ%4ZZZ}{QQQ%5ZZZ}`")
+    line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b[])(%b{})","`\\QQQ%2ZZZ%3{QQQ%4ZZZ}`")
 
-line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})(%b[])(%b{})","<code>&#x5c;QQQ%2ZZZ</code><code>&#x7b;QQQ%3ZZZ&#x7d;</code><code>%4</code></code><code>&#x7b;QQQ%5ZZZ&#x7d;</code>")
+line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})(%b[])(%b{})","`\\QQQ%2ZZZ{QQQ%3ZZZ}%4{QQQ%5ZZZ}`")
 
-line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</code><code>&#x7b;QQQ%3ZZZ&#x7d;</code>")
-    line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b[])","<code>&#x5c;QQQ%2ZZZ</code><code>%3</code>")
+line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","`\\QQQ%2ZZZ{QQQ%3ZZZ}`")
+    line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b[])","`\\QQQ%2ZZZ%3`")
     line=string.gsub(line,"\\csx[ ]*(%b{})","`\\QQQ%1ZZZ`")
-    line=string.gsub(line,"\\marg[ ]*(%b{})","&#x7b;QQQ%1ZZZ&#x7d;")
+    line=string.gsub(line,"\\marg[ ]*(%b{})","{QQQ%1ZZZ}")
     line=string.gsub(line,"|%(\\end([^|]*)<|","<code class=\"verb\">&#x5c;end%1&gt;</code>")-- short verb allowed?
-    line=string.gsub(line,"|%{\\it stuff([^|]*}|","<code class=\"verb\">&#x7b;&#x5c;it stuff&#x7d;</code>")-- short verb allowed?
+    line=string.gsub(line,"|%{\\it stuff([^|]*}|","<code class=\"verb\">{&#x5c;it stuff&#x7d;</code>")-- short verb allowed?
     line=string.gsub(line,"|\\def\\x b{xxxb}|","<code class=\"verb\">&#x5c;def&#x5c;x b&#7b;xxxb&#x7d;</code>")-- short verb allowed?
-    line=string.gsub(line,"|\\def\\x #1{xxx#1}|","<code class=\"verb\">&#x5c;def&#x5c;x #1&#x7b;xxx#1&#x7d;</code>")-- short verb allowed?
-    line=string.gsub(line,"|p{%.%.%.}|","<code class=\"verb\">p&#x7b;...&#x7d;</code>")-- short verb allowed?
-    line=string.gsub(line,"|([^ |]*)|",
-    function (s)
-    return
-     "<code class=\"verb\">" ..
-     string.gsub(string.gsub(string.gsub(s,"\\","&#x5c;"),"{","&#x7b;"),"}","&#x7d;") ..
-     "</code>"
-    end)-- short verb allowed?
+    line=string.gsub(line,"|\\def\\x #1{xxx#1}|","<code class=\"verb\">&#x5c;def&#x5c;x #1{xxx#1&#x7d;</code>")-- short verb allowed?
+    line=string.gsub(line,"|p{%.%.%.}|","<code class=\"verb\">p{...&#x7d;</code>")-- short verb allowed?
+    line=string.gsub(line,"|([^ |]*)|", "`%1`")
     line=string.gsub(line,"\\textsf[ ]*(%b{})","QQQ%1ZZZ")
     line=string.gsub(line,"\\textup[ ]*(%b{})","QQQ%1ZZZ")
     line=string.gsub(line,"\\textsl[ ]*(%b{})","_QQQ%1ZZZ_")
@@ -454,8 +448,6 @@ line=string.gsub(line,"\\@","")
 -- check for TeX markup surviving
     line=string.gsub(line,"[^`]\\(%a+)[^`]","[[[%1]]]")
     line=string.gsub(line,"[^`]\\([^%a])[^`]","[[[%1]]]")
-    line=string.gsub(line,"{","[[[LBRACE]]]")
-    line=string.gsub(line,"}","[[[RBRACE]]]")
     
 -- Cleanup some odd markup
   line = string.gsub(line,"''`","`")
