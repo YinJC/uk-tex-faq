@@ -342,7 +342,7 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
       ctanrefs=false
     end
     if(ctanrefs and string.match(line,"\\item")) then
-      line=string.gsub(line,"\\item[ ]*(%b[])","- QQQ%1ZZZ")
+      line = ""
     end
 
 
