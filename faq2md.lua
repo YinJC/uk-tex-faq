@@ -256,7 +256,7 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})(%b[])(%b{})","<code>&#x5c;
 
 line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</code><code>&#x7b;QQQ%3ZZZ&#x7d;</code>")
     line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b[])","<code>&#x5c;QQQ%2ZZZ</code><code>%3</code>")
-    line=string.gsub(line,"\\csx[ ]*(%b{})","<code>&#x5c;QQQ%1ZZZ</code>")
+    line=string.gsub(line,"\\csx[ ]*(%b{})","`\\QQQ%1ZZZ`")
     line=string.gsub(line,"\\marg[ ]*(%b{})","&#x7b;QQQ%1ZZZ&#x7d;")
     line=string.gsub(line,"|%(\\end([^|]*)<|","<code class=\"verb\">&#x5c;end%1&gt;</code>")-- short verb allowed?
     line=string.gsub(line,"|%{\\it stuff([^|]*}|","<code class=\"verb\">&#x7b;&#x5c;it stuff&#x7d;</code>")-- short verb allowed?
@@ -452,8 +452,8 @@ line=string.gsub(line,"\\#","#")
 line=string.gsub(line,"\\@","")
 
 -- check for TeX markup surviving
-    line=string.gsub(line,"\\(%a+)","[[[%1]]]")
-    line=string.gsub(line,"\\([^%a])","[[[%1]]]")
+    line=string.gsub(line,"[^`]\\(%a+)[^`]","[[[%1]]]")
+    line=string.gsub(line,"[^`]\\([^%a])[^`]","[[[%1]]]")
     line=string.gsub(line,"{","[[[LBRACE]]]")
     line=string.gsub(line,"}","[[[RBRACE]]]")
     
@@ -462,6 +462,7 @@ line=string.gsub(line,"\\@","")
   line = string.gsub(line,"'`","`")
   line = string.gsub(line,"`''","`")
   line = string.gsub(line,"`'","`")
+  
 return line
 end
 
