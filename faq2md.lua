@@ -76,7 +76,6 @@ function file_to_md (filename)
 
 
       if(string.match(line,"^[ ]*\\Question%[")) then
-        faq_link(qid)
         qid=string.gsub(line,".*\\Question%[([^%]]*)]{(.*)} *$","%1")
         qid=string.gsub(qid,"%*","star")
         qtitle=faq_convert_line((string.gsub(line,".*\\Question%[([^%]]*)]{(.*)} *$","%2")))
@@ -101,7 +100,6 @@ function file_to_md (filename)
       io.write(line .. "\n")
     end
   end
-  faq_link(qid)
   qid=nil
 end
 
@@ -440,21 +438,6 @@ line=string.gsub(line,"\\@","")
   line = string.gsub(line,"`'","`")
 return line
 end
-
-
-
-function faq_link (qid)
-  if(qid ~= nil) then
-  local lab = string.gsub(qid or "","^Q%-","")
-  io.write(
- "\n<hr><p class=\"faqlink\">This question on the Web: <a href=\"http://www.tex.ac.uk/cgi-bin/texfaq2html?label=" ..
- lab ..
-"\">http://www.tex.ac.uk/cgi-bin/texfaq2html?label=" ..
-string.gsub(qid or "","^Q%-","")..
-"</a></p>\n")
-end
-end
-
 
 function file_to_toc(file)
   local line
