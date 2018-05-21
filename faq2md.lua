@@ -434,9 +434,9 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
       line=string.gsub(line,"\\end{hyperversion}","")
 
 
-
-    line=string.gsub(line,"\\LastEdit[%* ]*{([^{}]*)}",
-    "\n----\nThis answer last edited: %1")
+    if string.match(line, "\\LastEdit[%* ]*{([^{}]*)}") then
+      line = ""
+    end
 
 
     line=string.gsub(line,"QQQ.","")
