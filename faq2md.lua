@@ -22,6 +22,11 @@ function file_to_md (filename)
         line=string.gsub(line,"\\end{quoteverbatim}","```")
         quoteverbatim=false
       end
+      
+      -- Indent in lists
+      if itemize or enumerate then
+        line = "    " .. line
+      end
 
     else -- not verbatim
 
@@ -355,13 +360,34 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
       line=string.gsub(line,"\\item[ ]*(%b[])","- QQQ%1ZZZ")
     end
 
+    if string.match(line,"\\begin{itemize}") then
+      itemize = true
+      line = "\n"
+    end
+    if string.match(line,"\\begin{enumerate}") then
+      enumerate = true
+      enumitem = 0
+      line = "\n"
+    end
+    if string.match(line,"\\end{itemize}") then
+      itemize = false
+      line = "\n"
+    end
+    if string.match(line,"\\end{enumerate}") then
+      enumerate = false
+      line = "\n"
+    end
 
-    line=string.gsub(line,"\\begin{itemize}","\n")
-    line=string.gsub(line,"\\end{itemize}","\n")
-    line=string.gsub(line,"\\begin{enumerate}","\n")
-    line=string.gsub(line,"\\end{enumerate}","\n")
-
-    line=string.gsub(line,"\\item","- ")
+    if string.match(line,"\\item") then
+      if enumerate then
+        enumitem = enumitem + 1
+        line = string.gsub(line,"\\item",enumitem .. ". ")
+      else
+        line = string.gsub(line,"\\item","- ")
+      end
+    elseif itemize or enumerate then
+      line = "  " .. line
+    end
 
     line=string.gsub(line,"[ ]*\\begin{footnoteenv}","<sup class=\"fmk\">&dagger;</sup><span class=\"footnote\">&dagger; ")
     line=string.gsub(line,"\\end{footnoteenv}","</span>")
