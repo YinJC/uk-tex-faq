@@ -321,8 +321,7 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
     line=string.gsub(line,"\\Qref[*]?(%[\\htmlonly%])(%b{})(%b{})","<a href=\"FAQQQ%3ZZZ.html\">QQQ%2ZZZ</a>")
     line=string.gsub(line,"\\Qref[*]?(%b[])(%b{})(%b{})","<a class=\"FAQQQ%1ZZZ.html\" href=\"FAQQQ%3ZZZ.html\">QQQ%2ZZZ</a>")
     line=string.gsub(line,"\\Qref[*]?(%b{})(%b{})","<a href=\"FAQQQ%2ZZZ.html\">QQQ%1ZZZ</a>")
-    line=string.gsub(line,"\\CTANref(%b{})(%b[])","")-- latex packages in a larger ctan package
-    line=string.gsub(line,"\\CTANref(%b{})","")
+    if string.match(line,"\\CTANref") then line = "" end 
 
     line=string.gsub(line,"\\includegraphics[ ]*{([^{}]*%.png)}","<img alt=\"%1\" src=\"%1\">")
 
