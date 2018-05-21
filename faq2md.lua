@@ -97,7 +97,7 @@ function file_to_md (filename)
       line=faq_convert_line(line)
     end
     if (verbatim or not string.match(line,"^ *$")) then
-      io.write(line .. "\n")
+      io.write(string.gsub(line, "^ *", "") .. "\n")
     end
   end
   qid=nil
