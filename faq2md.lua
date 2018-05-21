@@ -438,6 +438,12 @@ line=string.gsub(line,"\\@","")
     line=string.gsub(line,"\\([^%a])","[[[%1]]]")
     line=string.gsub(line,"{","[[[LBRACE]]]")
     line=string.gsub(line,"}","[[[RBRACE]]]")
+    
+-- Cleanup some odd markup
+  line = string.gsub(line,"''`","`")
+  line = string.gsub(line,"'`","`")
+  line = string.gsub(line,"`''","`")
+  line = string.gsub(line,"`'","`")
 return line
 end
 
