@@ -86,19 +86,14 @@ function file_to_md (filename)
 --        print("XXX: " .. qid)
   
         io.output("FA" .. qid .. ".md")
-        io.write("<!DOCTYPE html>\n<html>\n<head>\n")
-        io.write("<meta charset=\"UTF-8\">\n")
-        io.write("<title>" .. qtitletext .. "</title>\n")
-        io.write("<link rel=\"stylesheet\" href=\"faq.css\">\n")
-        io.write("</head>\n<body>\n")
-        io.write("<div class=\"breadcrumbs\">\n")
-	io.write("<a href=\"index.html\">FAQ</a> &gt; ")
-	io.write("<a href=\"index.html#" .. secid .."\">" .. section .. "</a> &gt; ")
-	if(subsecid) then
-	  io.write("<a href=\"index.html#" .. subsecid .."\">" .. subsection .. "</a> &gt; ")      end
-	io.write("<a href=\"index.html#" .. qid .."\">" .. qtitle .. "</a>")
-        io.write("\n</div>\n<h1>" .. qtitle .. "</h1>\n\n")
-      end
+        
+        io.write("---\n")
+        io.write("layout: page\n")
+        io.write("title: " .. qtitle .. "\n")
+        io.write("permalink: /FA" .. qid .. ".html\n")
+        io.write("---\n")
+
+    end
 
       line=faq_convert_line(line)
     end
