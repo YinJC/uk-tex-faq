@@ -410,7 +410,7 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
 
 
     line=string.gsub(line,"\\LastEdit[%* ]*{([^{}]*)}",
-    "\n<p class=\"lastedit\">This answer last edited: %1</p>")
+    "\n----\nThis answer last edited: %1")
 
 
     line=string.gsub(line,"QQQ.","")
