@@ -1,5 +1,5 @@
 
-function file_to_html (filename)
+function file_to_md (filename)
   qid=nil
   for line in io.lines(filename) do
 
@@ -47,7 +47,7 @@ function file_to_html (filename)
 	qid=nil
         introduction=true
   
-        io.output("index.html")
+        io.output("index.md")
         io.write("<!DOCTYPE html>\n<html>\n<head>\n")
         io.write("<meta charset=\"UTF-8\">\n")
         io.write("<title>UKTUG FAQ</title>\n")
@@ -89,7 +89,7 @@ function file_to_html (filename)
 
 --        print("XXX: " .. qid)
   
-        io.output("FA" .. qid .. ".html")
+        io.output("FA" .. qid .. ".md")
         io.write("<!DOCTYPE html>\n<html>\n<head>\n")
         io.write("<meta charset=\"UTF-8\">\n")
         io.write("<title>" .. qtitletext .. "</title>\n")
@@ -552,7 +552,7 @@ end
 for line in io.lines("gather-faqbody.tex") do
   if(string.match(line,"\\faqinput{")) then
     file=string.gsub(line,"^.*\\faqinput{(.*)}.*$","%1.tex")
-    file_to_html(file)
+    file_to_md(file)
   end
 end
 
