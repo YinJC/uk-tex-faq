@@ -333,8 +333,8 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","<code>&#x5c;QQQ%2ZZZ</co
     line=string.gsub(line,"^(.*)\\tbeol","<tr><td>%1</td></tr>")
 
 
-    line=string.gsub(line,"\\begin{quote}","<blockquote>")
-    line=string.gsub(line,"\\end{quote}","</blockquote>")
+    line=string.gsub(line,"\\begin{quote}","")
+    line=string.gsub(line,"\\end{quote}","")
 
     if (string.match(line,"\\begin{ctanrefs}")) then
       line=string.gsub(line,"\\begin{ctanrefs}","<dl>")
