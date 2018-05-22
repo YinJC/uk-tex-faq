@@ -225,7 +225,7 @@ function faq_convert_line (line)
     line=string.gsub(line,"\\dots{}","&hellip;")
     line=string.gsub(line,"\\dots([^%a])","&hellip;%1") -- hmm
 
-    line=string.gsub(line,"\\MSDOS{}","MSDOS")
+    line=string.gsub(line,"\\MSDOS{}","MS-DOS")
     line=string.gsub(line,"\\macosx{}","Mac OS/X")
 
     line=string.gsub(line,"\\Package[ ]*{([^{}]*)}","[`%1`](http://ctan.org/pkg/%1)")
