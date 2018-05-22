@@ -94,7 +94,6 @@ function file_to_md (filename)
         io.write("---\n")
         io.write("layout: page\n")
         io.write("title: " .. qtitle .. "\n")
-        io.write("permalink: /FA" .. qid .. ".html\n")
         io.write("---\n")
 
     end
