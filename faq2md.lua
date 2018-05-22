@@ -169,8 +169,8 @@ function faq_convert_line (line)
     line=string.gsub(line,"\\YandY{}","Y&Y")
     line=string.gsub(line,"\\WYSIWYG{}","WYSIWYG")
     line=string.gsub(line,"\\CDROM{}","CD-ROM")
-    line=string.gsub(line,"\\eTeX{}","e-TeX") -- why both?
-    line=string.gsub(line,"\\etex{}","e-TeX")
+    line=string.gsub(line,"\\eTeX{}","&epsilon;-TeX") -- why both?
+    line=string.gsub(line,"\\etex{}","&epsilon;-TeX")
     line=string.gsub(line,"\\TeX{}","TeX")-- why both?
     line=string.gsub(line,"\\tex{}","TeX")
     line=string.gsub(line,"\\ExTeX{}","ExTeX")
