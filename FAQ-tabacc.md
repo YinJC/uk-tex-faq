@@ -12,7 +12,7 @@ wrong.
 This is really a rather ghastly feature of the `tabbing`
 environment; in order to type accented characters you need to use the
 `\a` kludge: so `\a'{e}` inside `tabbing` for
-`\'{e}` outside, and similarly `\a` for `\` and `\a=`
+`\'{e}` outside, and similarly `\a` for ``\``` and `\a=`
 for `\=`.  This whole procedure is of course hideous and
 error-prone.
 
