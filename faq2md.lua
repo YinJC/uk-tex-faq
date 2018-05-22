@@ -190,7 +190,7 @@ function faq_convert_line (line)
     line=string.gsub(line,"\\texworks{}","TeXworks")
     line=string.gsub(line,"\\texshop{}","TeXshop")
     line=string.gsub(line,"\\miktex{}","MiKTeX")
-    line=string.gsub(line,"\\texlive{}","texlive")
+    line=string.gsub(line,"\\texlive{}","TeX&nbsp;Live")
     line=string.gsub(line,"\\PDFTeX{}","PDFTeX")-- why both?
     line=string.gsub(line,"\\pdftex{}","PDFTeX")
     line=string.gsub(line,"\\AMSLaTeX{}","AMSLaTeX")
