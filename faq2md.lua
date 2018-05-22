@@ -157,7 +157,7 @@ function faq_convert_line (line)
 
     line=string.gsub(line,"%%.*","")
 
-    line=string.gsub(line,"\\keywords[ ]*{(.*)}","<!-- %1 -->")
+    line=string.gsub(line,"\\keywords[ ]*{(.*)}","")
 
 
     line=string.gsub(line,"\\ctan{}","CTAN")
