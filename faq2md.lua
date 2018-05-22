@@ -297,11 +297,11 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","`\\QQQ%2ZZZ{QQQ%3ZZZ}`")
 
     line=string.gsub(line,"\\htmlentity{([^{}]*)}","&%1;")
 
-    line=string.gsub(line,"\\CTANhref%{faq}%b{}","<a href=\"http://www.ctan.org/pkg/uk-tex-faq\">FAQ's CTAN directory</a>")
-    line=string.gsub(line,"\\CTANhref%{cat%-licences}%b{}","<a href=\"http://www.ctan.org/license/\">list of licences</a>")
-    line=string.gsub(line,"\\CTANhref%{faq%-a4%}%b{}","<a href=\"http://www.ctan.org/tex-archive/help/uk-tex-faq/newfaq.pdf\">A4 paper</a>")
-    line=string.gsub(line,"\\CTANhref{faq%-letter}%b{}","<a href=\"http://www.ctan.org/tex-archive/help/uk-tex-faq/letterfaq.pdf\">North American &ldquo;letter&rdquo; paper</a>")
-    line=string.gsub(line,"\\CTANhref{visualFAQ}%b{}","<a href=\"http://www.ctan.org/tex-archive/info/visualFAQ/visualFAQ.pdf\">Visual FAQ</a>")
+    line=string.gsub(line,"\\CTANhref%{faq}%b{}","[FAQ's CTAN directory](http://www.ctan.org/pkg/uk-tex-faq)")
+    line=string.gsub(line,"\\CTANhref%{cat%-licences}%b{}","[list of licences](http://www.ctan.org/license/)")
+    line=string.gsub(line,"\\CTANhref%{faq%-a4%}%b{}","[A4 paper](http://www.ctan.org/tex-archive/help/uk-tex-faq/newfaq.pdf)")
+    line=string.gsub(line,"\\CTANhref{faq%-letter}%b{}","[North American &ldquo;letter&rdquo; paper](http://www.ctan.org/tex-archive/help/uk-tex-faq/letterfaq.pdf)")
+    line=string.gsub(line,"\\CTANhref{visualFAQ}%b{}","[Visual FAQ](http://www.ctan.org/tex-archive/info/visualFAQ/visualFAQ.pdf)")
 
 
     line=string.gsub(line,"\\Email[ ]*(%b{})","<a href=\"mailto:QQQ%1ZZZ\">QQQ%1ZZZ</a>")-- hmm
@@ -309,8 +309,8 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","`\\QQQ%2ZZZ{QQQ%3ZZZ}`")
     line=string.gsub(line,"\\URL[ ]*(%b{})","[QQQ%1ZZZ]")-- hmm
     line=string.gsub(line,"\\url[ ]*(%b{})","[QQQ%1ZZZ]")
     line=string.gsub(line,"\\href[%* ]*(%b{})(%b{})","[QQQ%2ZZZ](QQQ%1ZZZ)")
-    line=string.gsub(line,"\\Qref[*]?(%[\\htmlonly%])(%b{})(%b{})","[QQQ%2ZZZ](FAQQQ%3ZZZ.html)")
-    line=string.gsub(line,"\\Qref[*]?(%b[])(%b{})(%b{})","[QQQ%2ZZZ](FAQQQ%3ZZZ.html)")
+    line=string.gsub(line,"\\Qref[*]?(%[\\htmlonly%])(%b{})(%b{})","[QQQ%2ZZZ](./FAQQQ%3ZZZ.html)")
+    line=string.gsub(line,"\\Qref[*]?(%b[])(%b{})(%b{})","[QQQ%2ZZZ](./FAQQQ%3ZZZ.html)")
     line=string.gsub(line,"\\Qref[*]?(%b{})(%b{})","[QQQ%1ZZZ](./FAQQQ%2ZZZ.html)")
     if string.match(line,"\\CTANref") then line = "" end 
 
