@@ -166,7 +166,7 @@ function faq_convert_line (line)
     line=string.gsub(line,"\\Eplain}","Eplain}") -- hmmm
     line=string.gsub(line,"\\Eplain{}","Eplain")
     line=string.gsub(line,"\\PS{}","PostScript")
-    line=string.gsub(line,"\\YandY{}","Y&amp;Y")
+    line=string.gsub(line,"\\YandY{}","Y&Y")
     line=string.gsub(line,"\\WYSIWYG{}","WYSIWYG")
     line=string.gsub(line,"\\CDROM{}","CD-ROM")
     line=string.gsub(line,"\\eTeX{}","e-TeX") -- why both?
