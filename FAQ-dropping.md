@@ -1,7 +1,4 @@
----
-layout: page
-title: Big letters at the start of a paragraph
----
+# Big letters at the start of a paragraph
 
 A common style of typesetting, now seldom seen except in newspapers,
 is to start a paragraph (in books, usually the first of a chapter)

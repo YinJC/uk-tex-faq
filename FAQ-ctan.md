@@ -1,7 +1,4 @@
----
-layout: page
-title: What is CTAN?
----
+# What is CTAN?
 
 The acronym stands for ''Comprehensive TeX Archive Network'', which
 more-or-less specifies what it's _for_:

@@ -1,7 +1,4 @@
----
-layout: page
-title: Reconstructing `bib` files
----
+# Reconstructing `bib` files
 
 Perhaps you've lost the `bib` file you generated your document from,
 or have been sent a document without one.  Or even, you've realised

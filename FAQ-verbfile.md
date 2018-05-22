@@ -1,7 +1,4 @@
----
-layout: page
-title: Including a file verbatim in LaTeX
----
+# Including a file verbatim in LaTeX
 
 A good way is to use Rainer Sch&ouml;pf's [`verbatim`](http://ctan.org/pkg/verbatim) package,
 which provides a command `\verbatiminput` that takes a file name as

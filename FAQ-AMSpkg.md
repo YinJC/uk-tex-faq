@@ -1,7 +1,4 @@
----
-layout: page
-title: What are the AMS packages (AMSTeX, _etc_.)?
----
+# What are the AMS packages (AMSTeX, _etc_.)?
 
 AMSTeX is a TeX macro package, originally written by Michael Spivak for
 the American Mathematical Society (AMS) during 1983&ndash;1985 and

@@ -1,7 +1,4 @@
----
-layout: page
-title: Illegal parameter number in definition
----
+# Illegal parameter number in definition
 
 The error message means what it says.  In the simple case, you've
 attempted a definition like:

@@ -1,7 +1,4 @@
----
-layout: page
-title: Controlling widows and orphans
----
+# Controlling widows and orphans
 
 Widows (the last line of a paragraph at the start of a page) and
 orphans (the first line of paragraph at the end of a page) interrupt

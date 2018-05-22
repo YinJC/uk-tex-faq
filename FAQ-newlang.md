@@ -1,7 +1,4 @@
----
-layout: page
-title: Using a new language with Babel
----
+# Using a new language with Babel
 
 [`Babel`](http://ctan.org/pkg/Babel) is capable of working with a large range of
 languages, and a new user often wants to use a language that her

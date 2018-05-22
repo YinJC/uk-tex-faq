@@ -1,7 +1,4 @@
----
-layout: page
-title: Drawing Feynman diagrams in LaTeX
----
+# Drawing Feynman diagrams in LaTeX
 
 Michael Levine's [`feynman`](http://ctan.org/pkg/feynman) bundle for drawing the diagrams in
 LaTeX 2.09 is still available.

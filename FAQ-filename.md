@@ -1,7 +1,4 @@
----
-layout: page
-title: What's the name of this file
----
+# What's the name of this file
 
 One might want this so as to automatically generate a page header or
 footer recording what file is being processed.  It's not easy&hellip;

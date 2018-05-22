@@ -1,7 +1,4 @@
----
-layout: page
-title: Multiple bibliographies?
----
+# Multiple bibliographies?
 
 If you're thinking of multiple bibliographies tied to some part of
 your document (such as the chapters within the document), please see

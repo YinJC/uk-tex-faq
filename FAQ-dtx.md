@@ -1,7 +1,4 @@
----
-layout: page
-title: Documented LaTeX sources (`dtx` files)
----
+# Documented LaTeX sources (`dtx` files)
 
 LaTeX 2e, and many contributed LaTeX macro packages, are written
 in a [literate programming style](./FAQ-lit.html), with source and

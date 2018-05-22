@@ -1,7 +1,4 @@
----
-layout: page
-title: Using labels as counter values
----
+# Using labels as counter values
 
 Labels are tempting sources of 'numbers'&nbsp;&mdash; their most common use,
 after all, is simply to typeset a number.  However, their seeming

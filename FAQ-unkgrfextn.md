@@ -1,7 +1,4 @@
----
-layout: page
-title: ''Unknown graphics extension''
----
+# ''Unknown graphics extension''
 
 The LaTeX graphics package deals with several different types of
 DVI (or other) output drivers; each one of them has a potential

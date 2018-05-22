@@ -1,7 +1,4 @@
----
-layout: page
-title: Page numbering by chapter
----
+# Page numbering by chapter
 
 When I was a young man, a common arrangement for loose bound technical
 manuals is to number pages by chapter.  (It's quite a good scheme, in

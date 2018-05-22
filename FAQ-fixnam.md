@@ -1,7 +1,4 @@
----
-layout: page
-title: How to change LaTeX's ''fixed names''
----
+# How to change LaTeX's ''fixed names''
 
 LaTeX document classes define several typographic operations that
 need 'canned text' (text not supplied by the user).  In the earliest

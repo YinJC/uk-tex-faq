@@ -1,7 +1,4 @@
----
-layout: page
-title: Sorting lists of citations
----
+# Sorting lists of citations
 
 BibTeX has a sorting function, and most BibTeX styles sort the
 citation list they produce; most people find this desirable.

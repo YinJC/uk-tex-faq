@@ -1,7 +1,4 @@
----
-layout: page
-title: Cancelling terms in maths expressions
----
+# Cancelling terms in maths expressions
 
 A technique used when explaining the behaviour of expressions or
 equations (often for pedagogical purposes).  The [`cancel`](http://ctan.org/pkg/cancel)

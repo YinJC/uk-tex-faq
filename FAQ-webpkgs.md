@@ -1,7 +1,4 @@
----
-layout: page
-title: WEB systems for various languages
----
+# WEB systems for various languages
 
 TeX is written in the programming language WEB; WEB
 is a tool to implement the concept of ''literate programming''.

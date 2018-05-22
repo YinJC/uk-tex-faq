@@ -1,7 +1,4 @@
----
-layout: page
-title: Multiple indexes
----
+# Multiple indexes
 
 LaTeX's standard indexing capabilities (those provided by the
 [`makeidx`](http://ctan.org/pkg/makeidx) package) only provide for one index in your

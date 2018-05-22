@@ -1,7 +1,4 @@
----
-layout: page
-title: What's wrong with `\bf`, `\it`, etc.?
----
+# What's wrong with `\bf`, `\it`, etc.?
 
 The font-selection commands of LaTeX 2.09 were `\rm`, `\sf`,
 `\tt`, `\it`, `\sl`, `\em` and `\bf`; they were modal

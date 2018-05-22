@@ -1,7 +1,4 @@
----
-layout: page
-title: Imported graphics in `dvips`
----
+# Imported graphics in `dvips`
 
 `Dvips`, as originally conceived, can only import a single
 graphics format: 

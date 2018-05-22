@@ -1,7 +1,4 @@
----
-layout: page
-title: How to get copyright, trademark, etc.
----
+# How to get copyright, trademark, etc.
 
 The ''
 [Comprehensive symbol list](./FAQ-symbols.html)'', lists

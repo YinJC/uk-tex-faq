@@ -1,7 +1,4 @@
----
-layout: page
-title: Why are my sections numbered 0.1 &hellip;?
----
+# Why are my sections numbered 0.1 &hellip;?
 
 This happens when your document is using the standard [`book`](http://ctan.org/pkg/book) or
 [`report`](http://ctan.org/pkg/report) class (or one similar), and you've got a `\section`

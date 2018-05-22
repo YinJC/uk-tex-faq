@@ -1,7 +1,4 @@
----
-layout: page
-title: Installation using MiKTeX package manager
----
+# Installation using MiKTeX package manager
 
 
 

@@ -1,7 +1,4 @@
----
-layout: page
-title: Unpacking LaTeX packages
----
+# Unpacking LaTeX packages
 
 
 

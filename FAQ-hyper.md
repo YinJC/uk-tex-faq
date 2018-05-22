@@ -1,7 +1,4 @@
----
-layout: page
-title: Making hypertext documents from TeX
----
+# Making hypertext documents from TeX
 
 If you want on-line hypertext with a (La)TeX source, probably on the
 World Wide Web, there are four technologies to consider:

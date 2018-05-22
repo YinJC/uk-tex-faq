@@ -1,7 +1,4 @@
----
-layout: page
-title: Non-PDF special ignored!
----
+# Non-PDF special ignored!
 
 This is a PDFTeX error: PDFTeX is running in PDF output
 mode, and it has encountered a 

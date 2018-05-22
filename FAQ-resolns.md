@@ -1,7 +1,4 @@
----
-layout: page
-title: What are ''resolutions''?
----
+# What are ''resolutions''?
 
 ''Resolution'' is a word that is used with little concern for its
 multiple meanings, in computer equipment marketing.  The word suggests

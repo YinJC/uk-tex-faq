@@ -1,7 +1,4 @@
----
-layout: page
-title: The style of captions
----
+# The style of captions
 
 Changes to the style of captions may be made by redefining the commands
 that produce the caption.  So, for example, `\fnum@figure` (which

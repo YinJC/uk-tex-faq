@@ -1,7 +1,4 @@
----
-layout: page
-title: (Merely) peculiar hyphenation
----
+# (Merely) peculiar hyphenation
 
 You may have found that TeX's famed automatic word-division does
 not produce the break-points recommended by your dictionary. This may be

@@ -1,7 +1,4 @@
----
-layout: page
-title: Capitalisation in BibTeX
----
+# Capitalisation in BibTeX
 
 The standard BibTeX bibliography styles impose fixed ideas about
 the capitalisation of titles of things in the bibliography.  While

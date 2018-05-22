@@ -1,7 +1,4 @@
----
-layout: page
-title: Where are the `msx` and `msy` fonts?
----
+# Where are the `msx` and `msy` fonts?
 
 The `msx` and `msy` fonts were designed by the
 American Mathematical Society in the very early days of TeX, for

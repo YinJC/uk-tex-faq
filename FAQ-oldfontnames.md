@@ -1,7 +1,4 @@
----
-layout: page
-title: Old LaTeX font references such as `\tenrm`
----
+# Old LaTeX font references such as `\tenrm`
 
 LaTeX 2.09 defined a large set of commands for access to the fonts
 that it had built in to itself.  For example, `cmr` might

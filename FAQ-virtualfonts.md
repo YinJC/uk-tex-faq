@@ -1,7 +1,4 @@
----
-layout: page
-title: What are virtual fonts?
----
+# What are virtual fonts?
 
 Virtual fonts provide a means of collecting bits and pieces together
 to make the glyphs of a font: the bits and pieces may be glyphs from

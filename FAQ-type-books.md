@@ -1,7 +1,4 @@
----
-layout: page
-title: Books on Type
----
+# Books on Type
 
 
 

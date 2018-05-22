@@ -1,7 +1,4 @@
----
-layout: page
-title: Which font files should be kept
----
+# Which font files should be kept
 
 MetaFont produces from its run three files, a metrics (TFM) file, a
 generic font (GF) file, and a log file; all of these files have the

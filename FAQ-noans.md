@@ -1,7 +1,4 @@
----
-layout: page
-title: You don't understand the answer
----
+# You don't understand the answer
 
 While the FAQ maintainers don't offer a 'help' service, they're
 very keen that you understand the answers they've already written.

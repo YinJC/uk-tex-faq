@@ -1,7 +1,4 @@
----
-layout: page
-title: What was the CTAN `nonfree` tree?
----
+# What was the CTAN `nonfree` tree?
 
 When CTAN was founded, in the 1990s, it was unusual to publish
 the terms under which a TeX-related package was distributed (or, at

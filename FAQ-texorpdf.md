@@ -1,7 +1,4 @@
----
-layout: page
-title: Token not allowed in PDFDocEncoded string
----
+# Token not allowed in PDFDocEncoded string
 
 The package [`hyperref`](http://ctan.org/pkg/hyperref) produces this error when it doesn't
 know how to make something into a ''character'' that will go into one

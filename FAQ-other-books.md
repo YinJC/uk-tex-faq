@@ -1,7 +1,4 @@
----
-layout: page
-title: Books on other TeX-related matters
----
+# Books on other TeX-related matters
 
 
 

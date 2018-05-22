@@ -1,7 +1,4 @@
----
-layout: page
-title: Tidying up after installation
----
+# Tidying up after installation
 
 
 

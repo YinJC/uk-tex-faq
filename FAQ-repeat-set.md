@@ -1,7 +1,4 @@
----
-layout: page
-title: Repeating something for each 'thing' in a set
----
+# Repeating something for each 'thing' in a set
 
 
 

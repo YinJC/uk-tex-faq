@@ -1,7 +1,4 @@
----
-layout: page
-title: Tables longer than a single page
----
+# Tables longer than a single page
 
 Tables are, by default, set entirely in boxes of their own: as a
 result, they won't split over a page boundary.  Sadly, the world keeps

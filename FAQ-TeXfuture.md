@@ -1,7 +1,4 @@
----
-layout: page
-title: What is the future of TeX?
----
+# What is the future of TeX?
 
 Knuth has declared that he will do no further development of TeX;
 he will continue to fix any bugs that are reported to him (though

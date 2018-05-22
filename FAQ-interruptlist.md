@@ -1,7 +1,4 @@
----
-layout: page
-title: Interrupting enumerated lists
----
+# Interrupting enumerated lists
 
 It's often convenient to have commentary text, 'outside' the list,
 between successive entries of a list.  In the case of

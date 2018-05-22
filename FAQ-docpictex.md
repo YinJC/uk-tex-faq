@@ -1,7 +1,4 @@
----
-layout: page
-title: The PicTeX manual
----
+# The PicTeX manual
 
 PicTeX is a set of macros by Michael Wichura for drawing diagrams
 and pictures. The

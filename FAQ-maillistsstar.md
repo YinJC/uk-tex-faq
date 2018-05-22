@@ -1,7 +1,4 @@
----
-layout: page
-title: Specialist mailing lists
----
+# Specialist mailing lists
 
 The previous question, ''[getting help](./FAQ-gethelp.html)'', talked of
 the two major forums in which (La)TeX, MetaFont and MetaPost are

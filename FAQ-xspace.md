@@ -1,7 +1,4 @@
----
-layout: page
-title: Commands gobble following space
----
+# Commands gobble following space
 
 People are forever surprised that simple commands gobble the space
 after them: this is just the way it is.  The effect arises from the

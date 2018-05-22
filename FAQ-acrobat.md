@@ -1,7 +1,4 @@
----
-layout: page
-title: Making PDF documents from (La)TeX
----
+# Making PDF documents from (La)TeX
 
 There are three general routes to PDF output: Adobe's original
 'distillation' route (via PostScript output), direct conversion of a

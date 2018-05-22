@@ -1,7 +1,4 @@
----
-layout: page
-title: Is this command defined?
----
+# Is this command defined?
 
 Macro sets from the earliest days of TeX programming may be
 observed to test whether commands exist by using

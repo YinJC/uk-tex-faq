@@ -1,7 +1,4 @@
----
-layout: page
-title: Imported graphics in PDFLaTeX
----
+# Imported graphics in PDFLaTeX
 
 PDFTeX itself has a rather wide range of formats that it can
 ''natively'' incorporate into its output PDF stream:

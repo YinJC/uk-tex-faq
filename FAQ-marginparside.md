@@ -1,7 +1,4 @@
----
-layout: page
-title: Getting `\marginpar` on the right side
----
+# Getting `\marginpar` on the right side
 
 In an ideal world, marginal notes would be in ''analogous'' places on
 every page: notes on an even-side page would be in the left margin,

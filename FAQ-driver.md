@@ -1,7 +1,4 @@
----
-layout: page
-title: What is a DVI driver?
----
+# What is a DVI driver?
 
 A DVI driver is a program that takes as input a
 [DVI file](./FAQ-dvi.html)

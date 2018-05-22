@@ -1,7 +1,4 @@
----
-layout: page
-title: TeX User Groups
----
+# TeX User Groups
 
 There has been a TeX User Group since very near the time TeX
 first appeared.  That first group, TUG, is still active and its

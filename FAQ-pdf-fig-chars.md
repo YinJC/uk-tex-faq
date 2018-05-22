@@ -1,7 +1,4 @@
----
-layout: page
-title: Characters disappear from figures in PDFTeX
----
+# Characters disappear from figures in PDFTeX
 
 
 

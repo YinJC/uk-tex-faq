@@ -1,7 +1,4 @@
----
-layout: page
-title: What is PDFTeX?
----
+# What is PDFTeX?
 
 One can reasonably say that PDFTeX is (today) the main stream of
 TeX distributions: most LaTeX and many CONTeXT users nowadays use

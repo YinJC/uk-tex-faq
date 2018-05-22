@@ -1,7 +1,4 @@
----
-layout: page
-title: Footnotes numbered ''per page''
----
+# Footnotes numbered ''per page''
 
 The obvious solution is to make the footnote number reset whenever the
 page number is stepped, using the 

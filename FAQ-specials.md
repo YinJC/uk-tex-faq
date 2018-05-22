@@ -1,7 +1,4 @@
----
-layout: page
-title: `\special` commands
----
+# `\special` commands
 
 TeX provides the means to express things that device drivers can
 do, but about which TeX itself knows nothing.  For example, TeX

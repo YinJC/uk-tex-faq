@@ -1,7 +1,4 @@
----
-layout: page
-title: How to create a `\subsubsubsection`
----
+# How to create a `\subsubsubsection`
 
 LaTeX's set of ''sections'' stops at the level of
 `\subsubsection`.  This reflects a design decision by Lamport&nbsp;&mdash;

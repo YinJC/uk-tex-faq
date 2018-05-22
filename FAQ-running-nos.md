@@ -1,7 +1,4 @@
----
-layout: page
-title: Running equation, figure and table numbering
----
+# Running equation, figure and table numbering
 
 
 

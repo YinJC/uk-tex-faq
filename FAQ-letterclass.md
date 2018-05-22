@@ -1,7 +1,4 @@
----
-layout: page
-title: Letters and the like
----
+# Letters and the like
 
 LaTeX itself provides a [`letter`](http://ctan.org/pkg/letter) document class, which is
 widely disliked; the present author long since gave up trying with

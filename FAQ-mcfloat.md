@@ -1,7 +1,4 @@
----
-layout: page
-title: Floats in multicolumn setting
----
+# Floats in multicolumn setting
 
 If you use
 ```latex

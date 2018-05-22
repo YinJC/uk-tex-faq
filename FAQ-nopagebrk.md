@@ -1,7 +1,4 @@
----
-layout: page
-title: Preventing page breaks between lines
----
+# Preventing page breaks between lines
 
 One commonly requires that a block of typeset material be kept on the
 same page; it turns out to be surprisingly tricky to arrange this.

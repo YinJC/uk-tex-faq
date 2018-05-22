@@ -1,7 +1,4 @@
----
-layout: page
-title: Retrieving (La)TeX from DVI, etc.
----
+# Retrieving (La)TeX from DVI, etc.
 
 The job just can't be done automatically: DVI, PostScript and
 PDF are ''final'' formats, supposedly not susceptible to

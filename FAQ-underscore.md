@@ -1,7 +1,4 @@
----
-layout: page
-title: How to typeset an underscore character
----
+# How to typeset an underscore character
 
 The underscore character `_` is ordinarily used in TeX to
 indicate a subscript in maths mode; if you type `_`, on its

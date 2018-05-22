@@ -1,7 +1,4 @@
----
-layout: page
-title: Key-value input for macros and package options
----
+# Key-value input for macros and package options
 
 When we discussed 
 [extending the number of arguments to a macro](./FAQ-moren9.html), we

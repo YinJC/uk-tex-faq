@@ -1,7 +1,4 @@
----
-layout: page
-title: How to make a ''minimum example''
----
+# How to make a ''minimum example''
 
 [Our advice on asking questions](./FAQ-askquestion.html)
 suggests that you prepare a ''minimum example'' (also commonly known

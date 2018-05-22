@@ -1,7 +1,4 @@
----
-layout: page
-title: Preparing a Type&nbsp;1 font
----
+# Preparing a Type&nbsp;1 font
 
 The process of installing a Type&nbsp;1 font set is rather convoluted, and
 we will deal with it in two chunks: first (in the present answer)

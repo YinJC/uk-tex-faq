@@ -1,7 +1,4 @@
----
-layout: page
-title: XeTeX
----
+# XeTeX
 
 [XeTeX](http://scripts.sil.org/xetex), by Jonathan Kew, is a
 successor to the shareware TeX/GX program for Macintoshes.  It was

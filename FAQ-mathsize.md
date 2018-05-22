@@ -1,7 +1,4 @@
----
-layout: page
-title: Adjusting maths font sizes
----
+# Adjusting maths font sizes
 
 In Plain TeX, when you introduce a new font size you must also
 declare what size fonts are to be used in mathematics with it.  This

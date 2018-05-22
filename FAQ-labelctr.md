@@ -1,7 +1,4 @@
----
-layout: page
-title: Making labels from a counter
----
+# Making labels from a counter
 
 Suppose we have a LaTeX counter, which we've defined with
 `\newcounter{foo}`.  We can increment the value of the counter

@@ -1,7 +1,4 @@
----
-layout: page
-title: How to change a whole row of a table
----
+# How to change a whole row of a table
 
 Each cell of a table is set in a box, so that a change of font style
 (or whatever) only lasts to the end of the cell.  If one has a

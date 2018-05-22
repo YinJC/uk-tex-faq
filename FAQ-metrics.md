@@ -1,7 +1,4 @@
----
-layout: page
-title: TeX font metric files for Type 1 fonts
----
+# TeX font metric files for Type 1 fonts
 
 Reputable font vendors such as Adobe supply metric files for each
 font, in AFM (Adobe Font Metric) form; these can be converted

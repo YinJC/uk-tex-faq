@@ -1,7 +1,4 @@
----
-layout: page
-title: Merging cells in a column of a table
----
+# Merging cells in a column of a table
 
 It's easy to come up with a table design that requires a cell that
 spans several rows.  An example is something where the left-most

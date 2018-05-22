@@ -1,7 +1,4 @@
----
-layout: page
-title: Why is my table/figure/&hellip; not centred?
----
+# Why is my table/figure/&hellip; not centred?
 
 
 

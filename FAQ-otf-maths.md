@@ -1,7 +1,4 @@
----
-layout: page
-title: Unicode Maths using OpenType fonts
----
+# Unicode Maths using OpenType fonts
 
 
 

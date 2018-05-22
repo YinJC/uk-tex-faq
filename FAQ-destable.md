@@ -1,7 +1,4 @@
----
-layout: page
-title: The design of tables
----
+# The design of tables
 
 In recent years, several authors have argued that the examples, set
 out by Lamport in his [LaTeX manual](./FAQ-latex-books.html), have cramped

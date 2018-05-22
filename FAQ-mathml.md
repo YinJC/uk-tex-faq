@@ -1,7 +1,4 @@
----
-layout: page
-title: Future WWW technologies and (La)TeX
----
+# Future WWW technologies and (La)TeX
 
 An earlier answer 
 ([''converting to HTML''](./FAQ-LaTeX2HTML.html))

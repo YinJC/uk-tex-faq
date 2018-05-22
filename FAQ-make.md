@@ -1,7 +1,4 @@
----
-layout: page
-title: Makefiles for LaTeX documents
----
+# Makefiles for LaTeX documents
 
 LaTeX documents are tricky beasts for building using
 (`Uni*x`) `make` on: the need to

@@ -1,7 +1,4 @@
----
-layout: page
-title: `epsf` gives up after a bit
----
+# `epsf` gives up after a bit
 
 Some copies of the documentation of `epsf.tex` seemed once to
 suggest that the command

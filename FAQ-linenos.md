@@ -1,7 +1,4 @@
----
-layout: page
-title: Including line numbers in typeset output
----
+# Including line numbers in typeset output
 
 For general numbering of lines, there are two packages for use with
 LaTeX, [`lineno`](http://ctan.org/pkg/lineno) (which permits labels attached to

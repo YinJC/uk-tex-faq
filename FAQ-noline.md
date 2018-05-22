@@ -1,7 +1,4 @@
----
-layout: page
-title: ''No line here to end''
----
+# ''No line here to end''
 
 The error
 ```latex

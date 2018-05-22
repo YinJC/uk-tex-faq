@@ -1,7 +1,4 @@
----
-layout: page
-title: Setting bold Greek letters in LaTeX maths
----
+# Setting bold Greek letters in LaTeX maths
 
 The issue here is complicated by the fact that `\mathbf` (the
 command for setting bold _text_ in TeX maths) affects a select

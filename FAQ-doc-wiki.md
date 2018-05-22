@@ -1,7 +1,4 @@
----
-layout: page
-title: WIKI books for TeX and friends
----
+# WIKI books for TeX and friends
 
 
 

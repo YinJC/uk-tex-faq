@@ -1,7 +1,4 @@
----
-layout: page
-title: More than one optional argument
----
+# More than one optional argument
 
 If you've already read 
 ''[breaking the 9-argument limit](./FAQ-moren9.html)''.

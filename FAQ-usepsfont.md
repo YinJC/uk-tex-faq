@@ -1,7 +1,4 @@
----
-layout: page
-title: Using Adobe Type 1 fonts with TeX
----
+# Using Adobe Type 1 fonts with TeX
 
 In order to use any font, TeX needs a
 _metric_ file (TFM file).  Several sets of metrics for

@@ -1,7 +1,4 @@
----
-layout: page
-title: Two-column float numbers out of order
----
+# Two-column float numbers out of order
 
 When LaTeX can't place a float immediately, it places it on one of
 several ''defer'' lists.  If another float of the same type comes

@@ -1,7 +1,4 @@
----
-layout: page
-title: PDFTeX and LuaTeX
----
+# PDFTeX and LuaTeX
 
 Elsewhere in these FAQs, we learn that development of
 [PDFTeX](./FAQ-whatpdftex.html) is ''in essence'' complete&nbsp;&mdash; no new

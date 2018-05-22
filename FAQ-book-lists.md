@@ -1,7 +1,4 @@
----
-layout: page
-title: Books relevant to TeX and friends
----
+# Books relevant to TeX and friends
 
 
 

@@ -1,7 +1,4 @@
----
-layout: page
-title: What is Texinfo?
----
+# What is Texinfo?
 
 Texinfo is a documentation system that uses one source file to produce
 both on-line information and printed output.  So instead of writing

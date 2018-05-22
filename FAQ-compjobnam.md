@@ -1,7 +1,4 @@
----
-layout: page
-title: Comparing the ''job name''
----
+# Comparing the ''job name''
 
 The token `\jobname` amusingly produces a sequence of characters
 whose category code is 12 ('other'), regardless of what the characters

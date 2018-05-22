@@ -1,7 +1,4 @@
----
-layout: page
-title: Even subscript height
----
+# Even subscript height
 
 Other things being equal, TeX will aim to position subscripts and
 superscripts in places that ''look good''.  Unfortunately, it only

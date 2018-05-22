@@ -1,7 +1,4 @@
----
-layout: page
-title: (La)TeX for different machines
----
+# (La)TeX for different machines
 
 We list here the free or shareware packages;
   another question addresses

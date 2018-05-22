@@ -1,7 +1,4 @@
----
-layout: page
-title: Bibliography, index, etc., in TOC
----
+# Bibliography, index, etc., in TOC
 
 The standard LaTeX classes (and many others) use `\section*` or
 `\chapter*` for auto-generated parts of the document (the tables of

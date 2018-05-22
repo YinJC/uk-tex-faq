@@ -1,7 +1,4 @@
----
-layout: page
-title: What's wrong with `\newfont`?
----
+# What's wrong with `\newfont`?
 
 If all else fails, you _can_ specify a font using the LaTeX
 `\newfont` command.  The font so specified doesn't fit into the

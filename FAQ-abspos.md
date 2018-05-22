@@ -1,7 +1,4 @@
----
-layout: page
-title: Putting things at fixed positions on the page
----
+# Putting things at fixed positions on the page
 
 TeX's model of the world is (broadly speaking) that the author
 writes text, and TeX and its macros decide how it all fits on the

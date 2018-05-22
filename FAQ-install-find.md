@@ -1,7 +1,4 @@
----
-layout: page
-title: Finding packages to install
----
+# Finding packages to install
 
 
 

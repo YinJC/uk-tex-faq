@@ -1,7 +1,4 @@
----
-layout: page
-title: Link text doesn't break at end line
----
+# Link text doesn't break at end line
 
 When using the [`hyperref`](http://ctan.org/pkg/hyperref) package, you make a block of text
 ''active'' when you define a hyper-link (when the user clicks on

@@ -1,7 +1,4 @@
----
-layout: page
-title: Extra vertical space in floats
----
+# Extra vertical space in floats
 
 A common complaint is that extra vertical space has crept into
 `figure` or `table` floating environments.

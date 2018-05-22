@@ -1,7 +1,4 @@
----
-layout: page
-title: Why use [`fontenc`](http://ctan.org/pkg/fontenc) rather than [`t1enc`](http://ctan.org/pkg/t1enc)?
----
+# Why use [`fontenc`](http://ctan.org/pkg/fontenc) rather than [`t1enc`](http://ctan.org/pkg/t1enc)?
 
 In the very earliest days of LaTeX 2e, the only way to use the
 T1 encoding was [`t1enc`](http://ctan.org/pkg/t1enc); with the summer 1994

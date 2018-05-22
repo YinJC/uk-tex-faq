@@ -1,7 +1,4 @@
----
-layout: page
-title: URLs in BibTeX bibliographies
----
+# URLs in BibTeX bibliographies
 
 There is no citation type for URLs, _per se_, in the
 standard BibTeX styles, though Oren Patashnik (the author of

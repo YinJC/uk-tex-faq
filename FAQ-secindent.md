@@ -1,7 +1,4 @@
----
-layout: page
-title: Indent after section headings
----
+# Indent after section headings
 
 LaTeX implements a style that doesn't indent the first paragraph
 after a section heading.  There are coherent reasons for this, but not

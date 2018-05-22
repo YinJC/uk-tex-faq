@@ -1,7 +1,4 @@
----
-layout: page
-title: `\spacefactor` complaints
----
+# `\spacefactor` complaints
 
 The errors
 ```latex

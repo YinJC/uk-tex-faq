@@ -1,7 +1,4 @@
----
-layout: page
-title: How does LaTeX relate to Plain TeX?
----
+# How does LaTeX relate to Plain TeX?
 
 TeX provides a programming language (of sorts), and any document
 more complex than the trivial ''hello world'' will need some

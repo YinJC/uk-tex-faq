@@ -1,7 +1,4 @@
----
-layout: page
-title: What is LaTeX?
----
+# What is LaTeX?
 
 LaTeX is a TeX macro package, originally written by Leslie Lamport, that
 provides a document processing system.  LaTeX allows markup to

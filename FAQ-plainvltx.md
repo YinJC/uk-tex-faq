@@ -1,7 +1,4 @@
----
-layout: page
-title: Should I use Plain TeX or LaTeX?
----
+# Should I use Plain TeX or LaTeX?
 
 There's no straightforward answer to this question.  Many people swear
 by Plain TeX, and produce highly respectable documents using it

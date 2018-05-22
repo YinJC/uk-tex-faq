@@ -1,7 +1,4 @@
----
-layout: page
-title: Improper `\hyphenation` will be flushed
----
+# Improper `\hyphenation` will be flushed
 
 For example
 ```latex

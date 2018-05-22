@@ -1,7 +1,4 @@
----
-layout: page
-title: Reference documents
----
+# Reference documents
 
 
 

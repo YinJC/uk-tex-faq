@@ -1,7 +1,4 @@
----
-layout: page
-title: Installing using ready-built ZIP files
----
+# Installing using ready-built ZIP files
 
 
 

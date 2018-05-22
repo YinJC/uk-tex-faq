@@ -1,7 +1,4 @@
----
-layout: page
-title: Referring to things by their name
----
+# Referring to things by their name
 
 LaTeX's labelling mechanism is designed for the impersonal world of
 the academic publication, in which everything has a number: an

@@ -1,7 +1,4 @@
----
-layout: page
-title: What is the ''Berry naming scheme''?
----
+# What is the ''Berry naming scheme''?
 
 In the olden days, (La)TeX distributions were limited by the
 feebleness of file systems' ability to represent long names.  (The

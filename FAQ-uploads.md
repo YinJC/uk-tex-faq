@@ -1,7 +1,4 @@
----
-layout: page
-title: Contributing a file to the archives
----
+# Contributing a file to the archives
 
 You have something to submit to the archive&nbsp;&mdash; good news!
 

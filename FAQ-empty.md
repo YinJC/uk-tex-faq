@@ -1,7 +1,4 @@
----
-layout: page
-title: Detecting that something is empty
----
+# Detecting that something is empty
 
 Suppose you need to know that the argument of your command is empty:
 that is, to distinguish between `\cmd{}` 

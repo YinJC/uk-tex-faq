@@ -1,7 +1,4 @@
----
-layout: page
-title: Sorting and compressing citations
----
+# Sorting and compressing citations
 
 If you give LaTeX
 `\cite{fred,joe,harry,min}`, its default commands could give

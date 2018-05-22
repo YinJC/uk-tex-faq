@@ -1,7 +1,4 @@
----
-layout: page
-title: Table of contents, etc., per chapter
----
+# Table of contents, etc., per chapter
 
 The common style, of a ''small'' table of contents for each part,
 chapter, or even section, is supported by the [`minitoc`](http://ctan.org/pkg/minitoc)

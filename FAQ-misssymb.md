@@ -1,7 +1,4 @@
----
-layout: page
-title: Missing symbol commands
----
+# Missing symbol commands
 
 You're processing an old document, and some symbol commands such as
 `\Box` and `\lhd` appear no longer to exist.  These commands were

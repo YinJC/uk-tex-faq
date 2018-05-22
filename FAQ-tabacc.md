@@ -1,7 +1,4 @@
----
-layout: page
-title: Accents misbehave in `tabbing`
----
+# Accents misbehave in `tabbing`
 
 So you are constructing a `tabbing` environment, and you
 have the need of some diacriticised text&nbsp;&mdash; perhaps something as simple

@@ -1,7 +1,4 @@
----
-layout: page
-title: Fuzzy fonts because `Ghostscript` too old
----
+# Fuzzy fonts because `Ghostscript` too old
 
 
 

@@ -1,7 +1,4 @@
----
-layout: page
-title: Other ''document font'' sizes?
----
+# Other ''document font'' sizes?
 
 The LaTeX standard classes have a concept of a (base) ''document
 font'' size; this size is the basis on which other font sizes (those

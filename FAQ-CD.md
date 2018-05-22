@@ -1,7 +1,4 @@
----
-layout: page
-title: The TeX collection
----
+# The TeX collection
 
 If you don't have access to the Internet, there are obvious
 attractions to TeX collections on a disc.  Even those with net

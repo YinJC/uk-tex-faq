@@ -1,7 +1,4 @@
----
-layout: page
-title: Getting 'free' fonts not in your distribution
----
+# Getting 'free' fonts not in your distribution
 
 Some fonts are free to use, but may not be sold.  This creates a
 dilemma for distributions: users may want the fonts, but since the

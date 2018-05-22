@@ -1,7 +1,4 @@
----
-layout: page
-title: Typesetting all those TeX-related logos
----
+# Typesetting all those TeX-related logos
 
 Knuth was making a particular point about the capabilities of TeX
 when he defined the logo.  Unfortunately (in some people's opinion) he thereby

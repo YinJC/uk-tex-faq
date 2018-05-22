@@ -1,7 +1,4 @@
----
-layout: page
-title: Commands defined with * options
----
+# Commands defined with * options
 
 LaTeX commands commonly have ''versions'' defined with an asterisk
 tagged onto their name: for example `\newcommand` and

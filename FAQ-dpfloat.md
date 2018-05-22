@@ -1,7 +1,4 @@
----
-layout: page
-title: Facing floats on 2-page spread
----
+# Facing floats on 2-page spread
 
 If a pair of floats need to be forced to form a 2-page spread (in a
 book, or whatever), the first must lie on the left side of the spread,

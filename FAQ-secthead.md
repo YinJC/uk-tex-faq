@@ -1,7 +1,4 @@
----
-layout: page
-title: The style of section headings
----
+# The style of section headings
 
 Suppose that the editor of your favourite journal has specified that section
 headings must be centred, in small capitals, and subsection headings ragged 

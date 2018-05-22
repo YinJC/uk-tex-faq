@@ -1,7 +1,4 @@
----
-layout: page
-title: Quality of PDF from PostScript
----
+# Quality of PDF from PostScript
 
 
 

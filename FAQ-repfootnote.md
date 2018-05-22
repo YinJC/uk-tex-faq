@@ -1,7 +1,4 @@
----
-layout: page
-title: Footnotes whose texts are identical
----
+# Footnotes whose texts are identical
 
 If the _same_ footnote turns up at several places within a
 document, it's often inappropriate to repeat the footnote in its

@@ -1,7 +1,4 @@
----
-layout: page
-title: Why doesn't verbatim work within &hellip;?
----
+# Why doesn't verbatim work within &hellip;?
 
 The LaTeX verbatim commands work by changing category codes.  Knuth
 says of this sort of thing ''Some care is needed to get the timing

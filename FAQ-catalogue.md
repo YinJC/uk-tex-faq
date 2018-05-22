@@ -1,7 +1,4 @@
----
-layout: page
-title: The (CTAN) catalogue
----
+# The (CTAN) catalogue
 
 Finding stuff on networks used always to be difficult, but in recent years,
 search engines have become amazingly good at digging out unconsidered

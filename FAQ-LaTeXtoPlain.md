@@ -1,7 +1,4 @@
----
-layout: page
-title: Translating LaTeX to Plain TeX
----
+# Translating LaTeX to Plain TeX
 
 Unfortunately, no ''general'', simple, automatic process is likely to
 succeed at this task.  See 

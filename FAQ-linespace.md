@@ -1,7 +1,4 @@
----
-layout: page
-title: Double-spaced documents in LaTeX
----
+# Double-spaced documents in LaTeX
 
 A quick and easy way of getting inter-line space for copy-editing is
 to change `\baselinestretch`&nbsp;&mdash; `\linespread{1.2}` (or,

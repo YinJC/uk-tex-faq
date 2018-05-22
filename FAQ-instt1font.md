@@ -1,7 +1,4 @@
----
-layout: page
-title: Installing a Type&nbsp;1 font
----
+# Installing a Type&nbsp;1 font
 
 Once you have a prepared Type&nbsp;1 font, either direct from CTAN
 or the like, or having ['prepared' it yourself](./FAQ-prept1font.html),

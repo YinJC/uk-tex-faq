@@ -1,7 +1,4 @@
----
-layout: page
-title: My brackets don't match
----
+# My brackets don't match
 
 (La)TeX has a low-level mechanism for matching braces in document
 text.  This means you can type something like:

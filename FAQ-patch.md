@@ -1,7 +1,4 @@
----
-layout: page
-title: Patching existing commands
----
+# Patching existing commands
 
 In the general case (possibly sticking something in the middle of an
 existing command) this is difficult.  However, the common requirement,

@@ -1,7 +1,4 @@
----
-layout: page
-title: What's ''writing in TeX''?
----
+# What's ''writing in TeX''?
 
 TeX is a macro processor, and offers its users a powerful
 programming capability.  To produce a document, you write macros and

@@ -1,7 +1,4 @@
----
-layout: page
-title: Changing margins ''on the fly''
----
+# Changing margins ''on the fly''
 
 One of the surprises characteristic of TeX use is that you cannot
 change the width or height of the text within the document, simply by

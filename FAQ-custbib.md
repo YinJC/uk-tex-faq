@@ -1,7 +1,4 @@
----
-layout: page
-title: Creating a bibliography style
----
+# Creating a bibliography style
 
 It _is_ possible to write your own: the standard bibliography
 styles are distributed in a form with many comments, and there is a description

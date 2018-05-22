@@ -1,7 +1,4 @@
----
-layout: page
-title: Realistic quotes for verbatim listings
----
+# Realistic quotes for verbatim listings
 
 The `cmtt` font has ''curly'' quotes,
 which are pleasing on the eye, but don't really tally with what one

@@ -1,7 +1,4 @@
----
-layout: page
-title: LaTeX internal ''abbreviations'', etc.
----
+# LaTeX internal ''abbreviations'', etc.
 
 In the deeps of time, when TeX first happened, computers had
 extremely limited memory, and were (by today's standards) painfully

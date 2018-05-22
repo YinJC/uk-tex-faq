@@ -1,7 +1,4 @@
----
-layout: page
-title: Using ''old-style'' figures
----
+# Using ''old-style'' figures
 
 These numbers are also called medieval or lowercase figures and their
 use is mostly font-specific.  Terminology is confusing since the

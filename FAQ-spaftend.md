@@ -1,7 +1,4 @@
----
-layout: page
-title: There's a space added after my environment
----
+# There's a space added after my environment
 
 You've written your own environment `env`, and it works
 except that a space appears at the start of the first line of typeset

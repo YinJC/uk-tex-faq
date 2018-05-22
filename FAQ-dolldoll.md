@@ -1,7 +1,4 @@
----
-layout: page
-title: Why use `\[` &hellip;`\]` in place of `$$` &hellip; `$$`?
----
+# Why use `\[` &hellip;`\]` in place of `$$` &hellip; `$$`?
 
 LaTeX defines inline- and display-maths commands, apparently
 duplicating the TeX primitive maths sequences which surround maths

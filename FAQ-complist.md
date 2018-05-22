@@ -1,7 +1,4 @@
----
-layout: page
-title: How to adjust list spacing
----
+# How to adjust list spacing
 
 [Lamport's book](./FAQ-latex-books.html) lists various
 parameters for the layout of list (things like `\topsep`,

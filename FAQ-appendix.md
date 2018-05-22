@@ -1,7 +1,4 @@
----
-layout: page
-title: Appendixes
----
+# Appendixes
 
 LaTeX provides an exceedingly simple mechanism for appendixes: the
 command `\appendix` switches the document from generating sections

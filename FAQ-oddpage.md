@@ -1,7 +1,4 @@
----
-layout: page
-title: Finding if you're on an odd or an even page
----
+# Finding if you're on an odd or an even page
 
 [Another question](./FAQ-marginparside.html) discusses the issue
 of getting `\marginpar` commands to put their output in the correct

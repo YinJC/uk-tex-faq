@@ -1,7 +1,4 @@
----
-layout: page
-title: What are encodings?
----
+# What are encodings?
 
 Let's start by defining two concepts, the _character_ and the
 _glyph_.

@@ -1,7 +1,4 @@
----
-layout: page
-title: ''Too deeply nested''
----
+# ''Too deeply nested''
 
 This error appears when you start a LaTeX list.
 

@@ -1,7 +1,4 @@
----
-layout: page
-title: Reading (La)TeX files
----
+# Reading (La)TeX files
 
 So you've been sent an (La)TeX file: what are you going to do with
 it?

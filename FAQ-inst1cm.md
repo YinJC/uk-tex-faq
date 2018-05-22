@@ -1,7 +1,4 @@
----
-layout: page
-title: Installing the Type&nbsp;1 versions of the CM&nbsp;fonts
----
+# Installing the Type&nbsp;1 versions of the CM&nbsp;fonts
 
 This is a specialised case of [installing a font](./FAQ-instfont.html),
 but it is almost never necessary&nbsp;&mdash; it's inconceivable that any (even

@@ -1,7 +1,4 @@
----
-layout: page
-title: (Modern) Windows systems
----
+# (Modern) Windows systems
 
 Windows users nowadays have a real choice, between two excellent
 distributions, MiKTeX and TeX&nbsp;Live.  TeX&nbsp;Live on windows has

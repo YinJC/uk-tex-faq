@@ -1,7 +1,4 @@
----
-layout: page
-title: Typesetting the Euro sign
----
+# Typesetting the Euro sign
 
 The European currency ''Euro'' (&#x20ac;) is represented by a symbol
 of somewhat dubious design, but it's an important currency and

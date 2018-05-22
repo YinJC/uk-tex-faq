@@ -1,7 +1,4 @@
----
-layout: page
-title: Spaces in macros
----
+# Spaces in macros
 
 It's very easy to write macros that produce space in the typeset
 output where it's neither desired nor expected.  Spaces introduced by

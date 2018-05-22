@@ -1,7 +1,4 @@
----
-layout: page
-title: Macintosh systems
----
+# Macintosh systems
 
 The [TeX collection](./FAQ-CD.html) DVD includes MacTeX,
 which is a Mac-tailored version of TeX&nbsp;Live; details may be found on

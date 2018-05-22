@@ -1,7 +1,4 @@
----
-layout: page
-title: Replacing the standard classes
----
+# Replacing the standard classes
 
 People are forever concocting classes that replace the standard ones:
 the present author produced an [`ukart`](http://ctan.org/pkg/ukart) class that used the

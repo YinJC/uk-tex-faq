@@ -1,7 +1,4 @@
----
-layout: page
-title: Moving tables and figures in LaTeX
----
+# Moving tables and figures in LaTeX
 
 Tables and figures have a tendency to surprise, by _floating_
 away from where they were specified to appear.  This is in fact

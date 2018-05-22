@@ -1,7 +1,4 @@
----
-layout: page
-title: Is the argument a number?
----
+# Is the argument a number?
 
 TeX's own lexical analysis doesn't offer the macro programmer
 terribly much support: while category codes will distinguish letters

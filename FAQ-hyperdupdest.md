@@ -1,7 +1,4 @@
----
-layout: page
-title: PDFTeX destination &hellip; ignored
----
+# PDFTeX destination &hellip; ignored
 
 The warning:
 ```latex

@@ -1,7 +1,4 @@
----
-layout: page
-title: Overstriking characters
----
+# Overstriking characters
 
 This may be used, for example, to indicate text deleted in the course
 of editing.  Both the [`ulem`](http://ctan.org/pkg/ulem) and the [`soul`](http://ctan.org/pkg/soul) packages

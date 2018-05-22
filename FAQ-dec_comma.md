@@ -1,7 +1,4 @@
----
-layout: page
-title: The comma as a decimal separator
----
+# The comma as a decimal separator
 
 
 

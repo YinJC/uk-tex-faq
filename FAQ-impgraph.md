@@ -1,7 +1,4 @@
----
-layout: page
-title: Importing graphics into (La)TeX documents
----
+# Importing graphics into (La)TeX documents
 
 Knuth, when designing the current version of TeX back in the early
 1980s, could discern no ''standard'' way of expressing graphics in

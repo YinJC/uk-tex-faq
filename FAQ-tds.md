@@ -1,7 +1,4 @@
----
-layout: page
-title: What is the TDS?
----
+# What is the TDS?
 
 TDS is an acronym for ''TeX Directory Structure''; it
 specifies a standard way of organising all the TeX-related files on

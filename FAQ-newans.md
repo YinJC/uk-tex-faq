@@ -1,7 +1,4 @@
----
-layout: page
-title: Submitting new material for the FAQ
----
+# Submitting new material for the FAQ
 
 The FAQ will never be complete, and we always expect that
 there will be people out there who know better than we do about

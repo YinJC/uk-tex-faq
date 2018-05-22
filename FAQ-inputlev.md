@@ -1,7 +1,4 @@
----
-layout: page
-title: Capacity exceeded&nbsp;&mdash; input levels
----
+# Capacity exceeded&nbsp;&mdash; input levels
 
 The error
 ```latex

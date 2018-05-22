@@ -1,7 +1,4 @@
----
-layout: page
-title: Adjusting the presentation of section numbers
----
+# Adjusting the presentation of section numbers
 
 The general issues of adjusting the appearance of section headings are
 pretty complex, and are covered in 

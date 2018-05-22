@@ -1,7 +1,4 @@
----
-layout: page
-title: Marking changed parts of your document
----
+# Marking changed parts of your document
 
 One often needs clear indications of how a document has changed, but
 the commonest technique, ''change bars'' (also known as ''revision

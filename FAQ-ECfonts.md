@@ -1,7 +1,4 @@
----
-layout: page
-title: What are the EC fonts?
----
+# What are the EC fonts?
 
 A font provides a number of _glyphs_. In order that the glyphs
 may be printed, they are [_encoded_](./FAQ-whatenc.html), and the

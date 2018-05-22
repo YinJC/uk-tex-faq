@@ -1,7 +1,4 @@
----
-layout: page
-title: Other systems' TeX availability
----
+# Other systems' TeX availability
 
 For PCs, running MS-DOS or OS/2, EmTeX (by Eberhard
 Mattes) offers LaTeX, BibTeX, previewers, and drivers.  It is

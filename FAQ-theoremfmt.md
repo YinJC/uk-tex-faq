@@ -1,7 +1,4 @@
----
-layout: page
-title: Theorem bodies printed in a roman font
----
+# Theorem bodies printed in a roman font
 
 If you want to take advantage of the powerful `\newtheorem` command
 without the constraint that the contents of the theorem is in a sloped

@@ -1,7 +1,4 @@
----
-layout: page
-title: Including Plain TeX files in LaTeX
----
+# Including Plain TeX files in LaTeX
 
 LaTeX, though originally [based on Plain TeX](./FAQ-LaTeXandPlain.html), does not
 contain all of Plain TeX's commands.  Worse, some Plain TeX

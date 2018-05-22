@@ -1,7 +1,4 @@
----
-layout: page
-title: Getting started
----
+# Getting started
 
 (La)TeX offers a very large number of choices, and the beginner has
 to navigate through that set before even taking his first steps.  The

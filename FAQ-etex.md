@@ -1,7 +1,4 @@
----
-layout: page
-title: What is &epsilon;-TeX?
----
+# What is &epsilon;-TeX?
 
 While Knuth has declared that TeX will never 
 [change in any substantial way](./FAQ-TeXfuture.html), there remain

@@ -1,7 +1,4 @@
----
-layout: page
-title: Producing presentations (including slides)
----
+# Producing presentations (including slides)
 
 Lamport's original LaTeX had a separate program (SliTeX) for
 producing slides; it dates from the age when colour effects were

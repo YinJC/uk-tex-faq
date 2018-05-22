@@ -1,7 +1,4 @@
----
-layout: page
-title: Package reports ''command already defined''
----
+# Package reports ''command already defined''
 
 You load a pair of packages, and the second reports that one of the
 commands it defines is already present.  For example, both the

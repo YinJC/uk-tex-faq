@@ -1,7 +1,4 @@
----
-layout: page
-title: DVI previewers
----
+# DVI previewers
 
 EmTeX for PCs running MS-DOS or OS/2, MiKTeX and
 XEmTeX for PCs running Windows and OzTeX for the Macintosh, all

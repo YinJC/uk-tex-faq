@@ -1,7 +1,4 @@
----
-layout: page
-title: The ANT typesetting system
----
+# The ANT typesetting system
 
 Achim Blumensath's [ANT](http://ant.berlios.de) project
 aims not to replicate TeX with a different implementation

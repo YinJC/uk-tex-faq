@@ -1,7 +1,4 @@
----
-layout: page
-title: Am I using PDFTeX, XeTeX or LuaTeX?
----
+# Am I using PDFTeX, XeTeX or LuaTeX?
 
 You often need to know what ''engine'' your macros are running on (the
 engine is the TeX-derivative or TeX-alike processor that

@@ -1,7 +1,4 @@
----
-layout: page
-title: What is Context?
----
+# What is Context?
 
 [Context](http://www.pragma-ade.com/) is a macro package
 created by Hans Hagen of Pragma-Ade; it started as a production tool

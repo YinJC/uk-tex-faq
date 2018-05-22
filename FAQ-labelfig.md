@@ -1,7 +1,4 @@
----
-layout: page
-title: Labelling graphics
----
+# Labelling graphics
 
 ''Technical'' graphics (such as graphs and diagrams) are often
 labelled with quite complex mathematical expressions: there are few

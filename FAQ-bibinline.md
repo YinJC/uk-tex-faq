@@ -1,7 +1,4 @@
----
-layout: page
-title: Putting bibliography entries in text
----
+# Putting bibliography entries in text
 
 This is a common requirement for journals and other publications in
 the humanities.  Sometimes the requirement is for the entry to appear

@@ -1,7 +1,4 @@
----
-layout: page
-title: Referring to labels in other documents
----
+# Referring to labels in other documents
 
 When producing a set of inter-related documents, you'll often want to
 refer to labels in another document of the set; but LaTeX, of its

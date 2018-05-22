@@ -1,7 +1,4 @@
----
-layout: page
-title: Unable to read an entire line
----
+# Unable to read an entire line
 
 TeX belongs to the generation of applications written for
 environments that didn't offer the sophisticated string and i/o

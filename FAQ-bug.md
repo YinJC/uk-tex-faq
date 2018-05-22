@@ -1,7 +1,4 @@
----
-layout: page
-title: What to do if you find a bug
----
+# What to do if you find a bug
 
 For a start, make entirely sure you _have_ found a bug.
 Double-check with books about TeX, LaTeX, or whatever you're using;

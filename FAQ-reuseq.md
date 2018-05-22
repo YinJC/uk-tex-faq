@@ -1,7 +1,4 @@
----
-layout: page
-title: Re-using an equation
----
+# Re-using an equation
 
 To repeat an existing equation, one wants not only to have the same
 mathematics in it, one also wants to re-use the original label it had.

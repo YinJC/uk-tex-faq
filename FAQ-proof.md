@@ -1,7 +1,4 @@
----
-layout: page
-title: Proof environment
----
+# Proof environment
 
 It was long thought impossible to make a `proof`
 environment which automatically includes an 'end-of-proof' symbol.

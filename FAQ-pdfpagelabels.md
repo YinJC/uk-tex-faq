@@ -1,7 +1,4 @@
----
-layout: page
-title: [`Hyperref`](http://ctan.org/pkg/Hyperref) and repeated page numbers
----
+# [`Hyperref`](http://ctan.org/pkg/Hyperref) and repeated page numbers
 
 The [`book`](http://ctan.org/pkg/book) class (and its friends and relations) automatically
 changes the display of page numbers in the frontmatter of the document

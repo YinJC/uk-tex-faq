@@ -1,7 +1,4 @@
----
-layout: page
-title: Repeated graphics in a document
----
+# Repeated graphics in a document
 
 A logo or ''watermark'' image, or any other image that is repeated in
 your document, has the potential to make the processed version of the

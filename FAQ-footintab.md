@@ -1,7 +1,4 @@
----
-layout: page
-title: Footnotes in tables
----
+# Footnotes in tables
 
 The standard LaTeX `\footnote` command doesn't work in tables;
 the tabular environment (and its ''relations'') traps footnotes, and

@@ -1,7 +1,4 @@
----
-layout: page
-title: Option clash for package
----
+# Option clash for package
 
 The error message
 ```latex

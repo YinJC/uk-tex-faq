@@ -1,7 +1,4 @@
----
-layout: page
-title: Generating package documentation
----
+# Generating package documentation
 
 
 

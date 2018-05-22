@@ -1,7 +1,4 @@
----
-layout: page
-title: Alignment tab changed to `\cr`
----
+# Alignment tab changed to `\cr`
 
 This is an error you may encounter in LaTeX when a tabular
 environment is being processed.  ''Alignment tabs'' are the

@@ -1,7 +1,4 @@
----
-layout: page
-title: Defining a new log-like function in LaTeX
----
+# Defining a new log-like function in LaTeX
 
 Use the `\mathop` command, as in:
 ```latex

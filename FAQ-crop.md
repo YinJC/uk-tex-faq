@@ -1,7 +1,4 @@
----
-layout: page
-title: How to create crop marks
----
+# How to create crop marks
 
 If you're printing something that's eventually to be reproduced in
 significant quantities, and bound, it's conventional to print on paper

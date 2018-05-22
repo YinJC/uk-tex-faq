@@ -1,7 +1,4 @@
----
-layout: page
-title: Accented words aren't hyphenated
----
+# Accented words aren't hyphenated
 
 TeX's algorithm for hyphenation gives up when it encounters an
 `\accent` command; there are good reasons for this, but it means

@@ -1,7 +1,4 @@
----
-layout: page
-title: Maths symbols don't scale up
----
+# Maths symbols don't scale up
 
 By default, the ''large'' maths symbols stay at the same size
 regardless of the font size of the text of the document.  There's good

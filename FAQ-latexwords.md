@@ -1,7 +1,4 @@
----
-layout: page
-title: Changing the words [`babel`](http://ctan.org/pkg/babel) uses
----
+# Changing the words [`babel`](http://ctan.org/pkg/babel) uses
 
 LaTeX uses symbolic names for many of the automatically-generated
 text it produces (special-purpose section headings, captions, etc.).

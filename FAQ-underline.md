@@ -1,7 +1,4 @@
----
-layout: page
-title: Underlined text won't break
----
+# Underlined text won't break
 
 Knuth made no provision for underlining text: he took the view that
 underlining is not a typesetting operation, but rather one that

@@ -1,7 +1,4 @@
----
-layout: page
-title: Why bother with [`inputenc`](http://ctan.org/pkg/inputenc) and [`fontenc`](http://ctan.org/pkg/fontenc)?
----
+# Why bother with [`inputenc`](http://ctan.org/pkg/inputenc) and [`fontenc`](http://ctan.org/pkg/fontenc)?
 
 
 

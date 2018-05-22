@@ -1,7 +1,4 @@
----
-layout: page
-title: ''Private'' installations of files
----
+# ''Private'' installations of files
 
 It sometimes happens that you need a new version of some macro package
 or font, but that the machine you use is maintained by someone who's

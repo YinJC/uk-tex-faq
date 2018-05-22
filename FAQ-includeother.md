@@ -1,7 +1,4 @@
----
-layout: page
-title: LaTeX won't include from other directories
----
+# LaTeX won't include from other directories
 
 You wanted to `\include{../bar/xyz.tex}`, but LaTeX says:
 ```latex

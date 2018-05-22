@@ -1,7 +1,4 @@
----
-layout: page
-title: Capacity exceeded [semantic nest &hellip;]
----
+# Capacity exceeded [semantic nest &hellip;]
 
 ```latex
 ! TeX capacity exceeded, sorry [semantic nest size=100].

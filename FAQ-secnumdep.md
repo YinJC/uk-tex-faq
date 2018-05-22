@@ -1,7 +1,4 @@
----
-layout: page
-title: Unnumbered sections in the Table of Contents
----
+# Unnumbered sections in the Table of Contents
 
 The way the relevant parts of sectioning commands work is exemplified
 by the way the `\chapter` command uses the counter `secnumdepth`

@@ -1,7 +1,4 @@
----
-layout: page
-title: Weird characters in `dvips` output
----
+# Weird characters in `dvips` output
 
 You've innocently generated output, using `dvips`, and there
 are weird transpositions in it: for example, the `fi` ligature has

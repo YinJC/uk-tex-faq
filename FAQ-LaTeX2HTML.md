@@ -1,7 +1,4 @@
----
-layout: page
-title: Conversion from (La)TeX to HTML
----
+# Conversion from (La)TeX to HTML
 
 TeX and LaTeX are well suited to producing electronically publishable
 documents. However, it is important to realize the difference

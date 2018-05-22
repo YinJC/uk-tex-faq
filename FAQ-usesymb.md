@@ -1,7 +1,4 @@
----
-layout: page
-title: Using symbols
----
+# Using symbols
 
 Most symbol font sets come with a package that defines commands for
 every symbol in the font.  While this is convenient, it can lead to

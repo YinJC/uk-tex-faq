@@ -1,7 +1,4 @@
----
-layout: page
-title: Spacing lines in tables
----
+# Spacing lines in tables
 
 (La)TeX mechanisms for maintaining the space between lines (the
 ''_leading_'') rely on TeX's paragraph builder, which compares

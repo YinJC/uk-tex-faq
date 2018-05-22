@@ -1,7 +1,4 @@
----
-layout: page
-title: Deploying Type 1 fonts
----
+# Deploying Type 1 fonts
 
 For the LaTeX user trying to use the
 [PSNFSS](./FAQ-usepsfont.html) package, three questions may arise.

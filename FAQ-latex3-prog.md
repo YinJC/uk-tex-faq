@@ -1,7 +1,4 @@
----
-layout: page
-title: LaTeX3 programming
----
+# LaTeX3 programming
 
 
 As yet, there is no book ''Programming in LaTeX3'', and even if

@@ -1,7 +1,4 @@
----
-layout: page
-title: Really blank pages between chapters
----
+# Really blank pages between chapters
 
 If you're using the standard classes, you need to take special action;
 the [`memoir`](http://ctan.org/pkg/memoir) class and the [`Koma-Script`](http://ctan.org/pkg/Koma-Script) classes provide

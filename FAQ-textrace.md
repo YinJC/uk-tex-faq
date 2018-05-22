@@ -1,7 +1,4 @@
----
-layout: page
-title: Making outline fonts from MetaFont
----
+# Making outline fonts from MetaFont
 
 `TeXtrace`, originally developed by  P&eacute;ter Szab&oacute;, is a
 bundle of Unix scripts that use  Martin Weber's freeware boundary

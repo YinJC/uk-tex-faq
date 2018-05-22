@@ -1,7 +1,4 @@
----
-layout: page
-title: References from the bibliography to the citation
----
+# References from the bibliography to the citation
 
 A link (or at least a page reference), from the bibliography to the
 citing command, is often useful in large documents.

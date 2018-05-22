@@ -1,7 +1,4 @@
----
-layout: page
-title: Tutorials, etc., for TeX-based systems
----
+# Tutorials, etc., for TeX-based systems
 
 From a situation where every (La)TeX user _had_ to buy a book
 if she was not to find herself groping blindly along, we now have what

@@ -1,7 +1,4 @@
----
-layout: page
-title: Flowing text around figures
----
+# Flowing text around figures
 
 There are several LaTeX packages that purport to do this, but they
 all have their limitations because the TeX machine isn't really

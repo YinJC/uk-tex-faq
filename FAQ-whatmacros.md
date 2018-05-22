@@ -1,7 +1,4 @@
----
-layout: page
-title: What are (TeX) macros
----
+# What are (TeX) macros
 
 TeX is a _macro processor_: this is a computer-science-y term
 meaning ''text expander'' (more or less); TeX typesets text as it

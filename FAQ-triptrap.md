@@ -1,7 +1,4 @@
----
-layout: page
-title: How can I be sure it's really TeX?
----
+# How can I be sure it's really TeX?
 
 TeX (and MetaFont and MetaPost) are written in a
   ['literate' programming](./FAQ-lit.html) language called `Web`

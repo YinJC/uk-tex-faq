@@ -1,7 +1,4 @@
----
-layout: page
-title: Why not use `eqnarray`?
----
+# Why not use `eqnarray`?
 
 The environment `eqnarray` is attractive for the
 occasional user of mathematics in LaTeX documents: it seems to

@@ -1,7 +1,4 @@
----
-layout: page
-title: How should I pronounce ''LaTeX(2<sub>&epsilon;</sub>)''?
----
+# How should I pronounce ''LaTeX(2<sub>&epsilon;</sub>)''?
 
 Lamport never recommended how one should pronounce LaTeX, but a lot
 of people pronounce it 'Lay TeX' or perhaps 'Lah TeX' (with

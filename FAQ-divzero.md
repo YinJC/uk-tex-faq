@@ -1,7 +1,4 @@
----
-layout: page
-title: Graphics division by zero
----
+# Graphics division by zero
 
 While the error
 ```latex

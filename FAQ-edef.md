@@ -1,7 +1,4 @@
----
-layout: page
-title: `\edef` does not work with `\protect`
----
+# `\edef` does not work with `\protect`
 
 Robust LaTeX commands are either ''naturally robust''&nbsp;&mdash; meaning that
 they never need `\protect`, or ''self-protected''&nbsp;&mdash; meaning that

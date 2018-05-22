@@ -1,7 +1,4 @@
----
-layout: page
-title: Omega and Aleph
----
+# Omega and Aleph
 
 Omega was developed as an extension of
 TeX, to use with multilingual texts, expressed in a variety of

@@ -1,7 +1,4 @@
----
-layout: page
-title: The LaTeX project
----
+# The LaTeX project
 
 The LaTeX project team (see [http://www.latex-project.org/latex3.html])
 is a small group of volunteers whose aim is

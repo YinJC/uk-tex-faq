@@ -1,7 +1,4 @@
----
-layout: page
-title: Footnotes in captions
----
+# Footnotes in captions
 
 Footnotes in captions are especially tricky: they present problems of
 their own, on top of the problems one experiences with

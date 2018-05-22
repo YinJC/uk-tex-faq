@@ -1,7 +1,4 @@
----
-layout: page
-title: ''Missing number, treated as zero''
----
+# ''Missing number, treated as zero''
 
 In general, this means you've tried to assign something to a count,
 dimension or skip register that isn't (in TeX's view of things) a

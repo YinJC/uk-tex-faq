@@ -1,7 +1,4 @@
----
-layout: page
-title: Packages to set up page designs
----
+# Packages to set up page designs
 
 There are two trustworthy tools for adjusting the dimensions and position of the
 printed material on the page are [`geometry`](http://ctan.org/pkg/geometry) and the

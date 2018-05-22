@@ -1,7 +1,4 @@
----
-layout: page
-title: Installing a new font
----
+# Installing a new font
 
 Fonts are really ''just another package'', and so should be installed
 in the same sort of way as packages.  However, fonts tend to be more

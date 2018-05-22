@@ -1,7 +1,4 @@
----
-layout: page
-title: How to approach errors
----
+# How to approach errors
 
 Since TeX is a macroprocessor, its error messages are often
 difficult to understand; this is a (seemingly invariant) property of

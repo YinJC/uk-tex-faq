@@ -1,7 +1,4 @@
----
-layout: page
-title: Typography tutorials
----
+# Typography tutorials
 
 
 

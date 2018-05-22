@@ -1,7 +1,4 @@
----
-layout: page
-title: Creating a BibTeX bibliography file
----
+# Creating a BibTeX bibliography file
 
 A BibTeX bibliography file may reasonably be compared to a small
 database, the entries in which are references to literature that may

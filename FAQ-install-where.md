@@ -1,7 +1,4 @@
----
-layout: page
-title: Where to install packages
----
+# Where to install packages
 
 
 

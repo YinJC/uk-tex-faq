@@ -1,7 +1,4 @@
----
-layout: page
-title: How to get rid of page numbers
----
+# How to get rid of page numbers
 
 Very occasionally, one wants a document with no page numbers.  For
 such occasions, the package [`nopageno`](http://ctan.org/pkg/nopageno) will make

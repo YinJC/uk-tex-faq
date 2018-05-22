@@ -1,7 +1,4 @@
----
-layout: page
-title: Portable imported graphics
----
+# Portable imported graphics
 
 
 

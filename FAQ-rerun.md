@@ -1,7 +1,4 @@
----
-layout: page
-title: ''Rerun'' messages won't go away
----
+# ''Rerun'' messages won't go away
 
 The LaTeX message ''Rerun to get crossreferences right'' is
 supposed to warn the user that the job needs to be processed again,

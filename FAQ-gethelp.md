@@ -1,7 +1,4 @@
----
-layout: page
-title: Getting help online
----
+# Getting help online
 
 We assume, here, that you have looked at all relevant
 [FAQ answers](./FAQ-whereFAQ.html) you can find, you've looked in

@@ -1,7 +1,4 @@
----
-layout: page
-title: Using non-standard fonts in Plain TeX
----
+# Using non-standard fonts in Plain TeX
 
 
 

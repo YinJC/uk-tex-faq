@@ -1,7 +1,4 @@
----
-layout: page
-title: Using BibTeX with Plain TeX
----
+# Using BibTeX with Plain TeX
 
 The file `btxmac.tex` (which is part of the Eplain system)
 contains macros and documentation for using BibTeX with

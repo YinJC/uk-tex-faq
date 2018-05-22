@@ -1,7 +1,4 @@
----
-layout: page
-title: Active characters in command arguments
----
+# Active characters in command arguments
 
 Occasionally, it's nice to make one or two characters active in the
 argument of a command, to make it easier for authors to code the

@@ -1,7 +1,4 @@
----
-layout: page
-title: ''Fatal format file error; I'm stymied''
----
+# ''Fatal format file error; I'm stymied''
 
 (La)TeX applications often fail with this error when you've been
 playing with the configuration, or have just installed a new version.

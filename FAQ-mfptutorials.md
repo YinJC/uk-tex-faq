@@ -1,7 +1,4 @@
----
-layout: page
-title: MetaFont and MetaPost Tutorials
----
+# MetaFont and MetaPost Tutorials
 
 Apart from Knuth's book, there seems to be only one publicly-available
 [tutorial for MetaFont](http://metafont.tutorial.free.fr/), by

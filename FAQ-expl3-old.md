@@ -1,7 +1,4 @@
----
-layout: page
-title: Support package [`expl3`](http://ctan.org/pkg/expl3) too old
----
+# Support package [`expl3`](http://ctan.org/pkg/expl3) too old
 
 
 

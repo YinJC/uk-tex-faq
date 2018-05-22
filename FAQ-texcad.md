@@ -1,7 +1,4 @@
----
-layout: page
-title: TeXCAD, a drawing package for LaTeX
----
+# TeXCAD, a drawing package for LaTeX
 
 TeXCAD is a program for the PC which enables the user to draw diagrams
 on screen using a mouse or arrow keys, with an on-screen menu of available 

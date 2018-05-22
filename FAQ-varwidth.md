@@ -1,7 +1,4 @@
----
-layout: page
-title: Automatic sizing of `minipage`
----
+# Automatic sizing of `minipage`
 
 The `minipage` environment requires you to specify the
 width of the ''page'' you're going to create.  This is sometimes

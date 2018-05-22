@@ -1,7 +1,4 @@
----
-layout: page
-title: Subverting a token register
----
+# Subverting a token register
 
 A common requirement is to ''subvert'' a token register that other
 macros may use.  The requirement arises when you want to add something

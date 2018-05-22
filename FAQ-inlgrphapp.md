@@ -1,7 +1,4 @@
----
-layout: page
-title: In-line source for graphics applications
----
+# In-line source for graphics applications
 
 Some of the free-standing graphics applications may also be used
 (effectively) in-line in LaTeX documents; examples are

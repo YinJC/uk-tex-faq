@@ -1,7 +1,4 @@
----
-layout: page
-title: My section title is too wide for the page header
----
+# My section title is too wide for the page header
 
 By default, LaTeX sectioning commands make the chapter or section
 title available for use by page headers and the like.  Page headers

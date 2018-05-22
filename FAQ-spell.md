@@ -1,7 +1,4 @@
----
-layout: page
-title: Spelling checkers for work with TeX
----
+# Spelling checkers for work with TeX
 
 'Traditional' approaches to the problem (of checking your spelling) were
 designed to work with a plain text file; in our case, we have an (La)TeX

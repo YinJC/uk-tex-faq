@@ -1,7 +1,4 @@
----
-layout: page
-title: Documentation of packages
----
+# Documentation of packages
 
 These FAQs regularly suggest packages that will ''solve''
 particular problems.  In some cases, the answer provides a recipe for

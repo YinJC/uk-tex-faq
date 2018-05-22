@@ -1,7 +1,4 @@
----
-layout: page
-title: Float(s) lost
----
+# Float(s) lost
 
 The error
 ```latex

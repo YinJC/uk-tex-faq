@@ -1,7 +1,4 @@
----
-layout: page
-title: Entering compatibility mode
----
+# Entering compatibility mode
 
 You run your LaTeX job, and it starts by saying
 ```latex

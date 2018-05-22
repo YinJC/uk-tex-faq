@@ -1,7 +1,4 @@
----
-layout: page
-title: How to break the 9-argument limit
----
+# How to break the 9-argument limit
 
 If you think about it, you will realise that Knuth's command
 definition syntax:

@@ -1,7 +1,4 @@
----
-layout: page
-title: What is Literate Programming?
----
+# What is Literate Programming?
 
 Literate programming is the combination of documentation and source
 together in a fashion suited for reading by human beings. 

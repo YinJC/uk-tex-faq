@@ -1,7 +1,4 @@
----
-layout: page
-title: Table of contents rearranges ''[`unsrt`](http://ctan.org/pkg/unsrt)'' ordering
----
+# Table of contents rearranges ''[`unsrt`](http://ctan.org/pkg/unsrt)'' ordering
 
 If you're using the [`unsrt`](http://ctan.org/pkg/unsrt) bibliography style, you're
 expecting that your bibliography will _not_ be sorted, but that

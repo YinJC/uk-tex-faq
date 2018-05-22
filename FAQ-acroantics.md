@@ -1,7 +1,4 @@
----
-layout: page
-title: Adobe `Reader` messing with print size
----
+# Adobe `Reader` messing with print size
 
 Printing from Adobe `Reader` shrinks the page ''to fit''
 (_by default_).  Unfortunately, its calculation doesn't consider

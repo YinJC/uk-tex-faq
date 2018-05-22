@@ -1,7 +1,4 @@
----
-layout: page
-title: TeX-friendly editors and shells
----
+# TeX-friendly editors and shells
 
 There are good TeX-writing environments and editors for most
 operating systems; some are described below, but this is only a

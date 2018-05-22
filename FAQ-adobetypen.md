@@ -1,7 +1,4 @@
----
-layout: page
-title: Adobe font formats
----
+# Adobe font formats
 
 Adobe has specified a number of formats for files to represent fonts
 in PostScript files; this question doesn't attempt to be encyclopaedic, so

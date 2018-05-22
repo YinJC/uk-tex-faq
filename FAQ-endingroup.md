@@ -1,7 +1,4 @@
----
-layout: page
-title: `\end` occurred inside a group
----
+# `\end` occurred inside a group
 
 The actual error we observe is:
 

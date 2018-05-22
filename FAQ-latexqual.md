@@ -1,7 +1,4 @@
----
-layout: page
-title: The quality of your LaTeX
----
+# The quality of your LaTeX
 
 The [`l2tabu`](http://ctan.org/pkg/l2tabu) tutorial (mentioned in 
 [online introductions](./FAQ-man-latex.html)) is undoubtedly a

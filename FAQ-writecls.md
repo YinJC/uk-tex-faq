@@ -1,7 +1,4 @@
----
-layout: page
-title: Learning to write LaTeX classes and packages
----
+# Learning to write LaTeX classes and packages
 
 There's nothing particularly magic about the commands you use when
 writing a package, so you can simply bundle up a set of LaTeX

@@ -1,7 +1,4 @@
----
-layout: page
-title: Which tree to use
----
+# Which tree to use
 
 
 

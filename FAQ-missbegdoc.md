@@ -1,7 +1,4 @@
----
-layout: page
-title: Missing `\begin`{document}
----
+# Missing `\begin`{document}
 
 The _preamble_ of your document is the stuff before
 `\begin{document}`; you put `\usepackage` commands and

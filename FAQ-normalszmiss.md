@@ -1,7 +1,4 @@
----
-layout: page
-title: `\normalsize` not defined
----
+# `\normalsize` not defined
 
 The LaTeX error:
 ```latex

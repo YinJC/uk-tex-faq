@@ -1,7 +1,4 @@
----
-layout: page
-title: What is TeX?
----
+# What is TeX?
 
 TeX is a typesetting system written by
 [Donald E. Knuth](http://sunburn.stanford.edu/&nbsp;knuth/), who

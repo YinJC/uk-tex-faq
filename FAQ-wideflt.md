@@ -1,7 +1,4 @@
----
-layout: page
-title: Centring a very wide figure or table
----
+# Centring a very wide figure or table
 
 The normal means of centring a figure or table object is to include
 `\centering` at the top of the float.  This doesn't help if the

@@ -1,7 +1,4 @@
----
-layout: page
-title: Finding (La)TeX files
----
+# Finding (La)TeX files
 
 Modern TeX distributions contain a huge array of various sorts of
 files, but sooner or later most people need to find something that's

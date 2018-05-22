@@ -1,7 +1,4 @@
----
-layout: page
-title: Generating an index in (La)TeX
----
+# Generating an index in (La)TeX
 
 Making an index is not trivial; what to index, and how to index it, is
 difficult to decide, and uniform implementation is difficult to

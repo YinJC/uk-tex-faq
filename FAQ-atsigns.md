@@ -1,7 +1,4 @@
----
-layout: page
-title: `` and `@` in macro names
----
+# `` and `@` in macro names
 
 Macro names containing `@` are _internal_ to LaTeX, and
 without special treatment just don't work in ordinary use.  A nice

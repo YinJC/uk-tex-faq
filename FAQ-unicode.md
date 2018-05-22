@@ -1,7 +1,4 @@
----
-layout: page
-title: Unicode and TeX
----
+# Unicode and TeX
 
 Unicode is a character code scheme that has the capacity to express
 the text of the languages of the world, as well as important symbols

@@ -1,7 +1,4 @@
----
-layout: page
-title: Typesetting things in landscape orientation
----
+# Typesetting things in landscape orientation
 
 It's often necessary to typeset part of a document in landscape
 orientation; to achieve this, one needs not only to change the page

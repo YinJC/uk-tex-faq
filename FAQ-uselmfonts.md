@@ -1,7 +1,4 @@
----
-layout: page
-title: Using the Latin Modern fonts
----
+# Using the Latin Modern fonts
 
 The [`lm`](http://ctan.org/pkg/lm) fonts are an exciting addition to
 the armoury of the (La)TeX user: high quality outlines of fonts that

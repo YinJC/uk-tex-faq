@@ -1,7 +1,4 @@
----
-layout: page
-title: Finding new fonts
----
+# Finding new fonts
 
 Nowadays, new fonts are seldom developed by industrious people using
 MetaFont, but if such do appear, they will nowadays be distributed in

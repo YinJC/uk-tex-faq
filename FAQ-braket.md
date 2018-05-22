@@ -1,7 +1,4 @@
----
-layout: page
-title: Set specifications and Dirac brackets
----
+# Set specifications and Dirac brackets
 
 One of the few glaring omissions from TeX's mathematical
 typesetting capabilities is a means of setting separators in the

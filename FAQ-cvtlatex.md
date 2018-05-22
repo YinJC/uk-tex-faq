@@ -1,7 +1,4 @@
----
-layout: page
-title: Transcribing LaTeX command definitions
----
+# Transcribing LaTeX command definitions
 
 At several places in this FAQ, questions are answered in terms
 of how to program a LaTeX macro.  Sometimes, these macros might

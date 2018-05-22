@@ -1,7 +1,4 @@
----
-layout: page
-title: ''Normal'' use of BibTeX from LaTeX
----
+# ''Normal'' use of BibTeX from LaTeX
 
 To create a bibliography for your document, you need to perform a
 sequence of steps, some of which seem a bit odd.  If you choose to use

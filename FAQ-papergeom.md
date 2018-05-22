@@ -1,7 +1,4 @@
----
-layout: page
-title: Getting the right paper geometry from (La)TeX
----
+# Getting the right paper geometry from (La)TeX
 
 If your output is the wrong size, and you've checked that it's not due
 to the [ministrations of Adobe `Reader`](./FAQ-acroantics.html),

@@ -1,7 +1,4 @@
----
-layout: page
-title: Alternative head- and footlines in LaTeX
----
+# Alternative head- and footlines in LaTeX
 
 The standard LaTeX document classes define a small set of 'page
 styles' which specify head- and footlines for your document (though

@@ -1,7 +1,4 @@
----
-layout: page
-title: Why is TeX not a WYSIWYG system?
----
+# Why is TeX not a WYSIWYG system?
 
 WYSIWYG is a marketing term (''What you see is what you get'') for
 a particular style of text processor.  WYSIWYG systems are

@@ -1,7 +1,4 @@
----
-layout: page
-title: Ready-built installation files on the archive
----
+# Ready-built installation files on the archive
 
 
 

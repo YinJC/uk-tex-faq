@@ -1,7 +1,4 @@
----
-layout: page
-title: Repeating a command _n_ times
----
+# Repeating a command _n_ times
 
 
 

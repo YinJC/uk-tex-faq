@@ -1,7 +1,4 @@
----
-layout: page
-title: Text inside maths
----
+# Text inside maths
 
 When we type maths in (La)TeX, the letters from which we make up
 ordinary text assume a special significance: they all become

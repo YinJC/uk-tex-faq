@@ -1,7 +1,4 @@
----
-layout: page
-title: The _hyperTeX_ project
----
+# The _hyperTeX_ project
 
 The _hyperTeX_ project extended the functionality of all the
 LaTeX cross-referencing commands (including the table of contents)

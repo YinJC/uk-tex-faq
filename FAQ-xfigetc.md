@@ -1,7 +1,4 @@
----
-layout: page
-title: (La)TeX-friendly drawing packages
----
+# (La)TeX-friendly drawing packages
 
 `(X)Fig` is a menu driven tool that allows you to
 draw objects on the screen of an X workstation; `transfig`

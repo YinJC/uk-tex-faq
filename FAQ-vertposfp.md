@@ -1,7 +1,4 @@
----
-layout: page
-title: Vertical layout of float pages
----
+# Vertical layout of float pages
 
 By default, LaTeX vertically centres the floats on a float page;
 the present author is not alone in not liking this arrangement.

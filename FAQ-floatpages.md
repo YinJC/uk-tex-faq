@@ -1,7 +1,4 @@
----
-layout: page
-title: Floats on their own on float pages
----
+# Floats on their own on float pages
 
 It's sometimes necessary to force a float to live on a page by itself.
 (It's sometimes even necessary for _every_ float to live on a

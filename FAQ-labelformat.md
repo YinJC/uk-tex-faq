@@ -1,7 +1,4 @@
----
-layout: page
-title: How to change the format of labels
----
+# How to change the format of labels
 
 By default, when a label is created, it takes on the appearance of the
 counter labelled, so the label appears as

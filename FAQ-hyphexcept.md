@@ -1,7 +1,4 @@
----
-layout: page
-title: Hyphenation exceptions
----
+# Hyphenation exceptions
 
 While TeX's hyphenation rules are good, they're not infallible: you
 will occasionally find words TeX just gets _wrong_.  So for

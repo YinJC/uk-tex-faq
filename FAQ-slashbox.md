@@ -1,7 +1,4 @@
----
-layout: page
-title: Diagonal separation in corner cells of tables
----
+# Diagonal separation in corner cells of tables
 
 You want to label both the top or bottom row and the left- or
 rightmost column, somewhere at the corner of the table where the row

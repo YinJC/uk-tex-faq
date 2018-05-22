@@ -1,7 +1,4 @@
----
-layout: page
-title: All the files used by this document
----
+# All the files used by this document
 
 When you're sharing a document with someone else (perhaps as part of a
 co-development cycle) it's as well to arrange that both correspondents

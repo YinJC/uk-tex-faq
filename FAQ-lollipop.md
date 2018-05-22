@@ -1,7 +1,4 @@
----
-layout: page
-title: Lollipop
----
+# Lollipop
 
 A long time ago (in the early 1990s), the Lollipop TeX format was
 developed (originally to typeset the excellent book 

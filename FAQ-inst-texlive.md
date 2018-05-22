@@ -1,7 +1,4 @@
----
-layout: page
-title: Installation using TeX&nbsp;Live manager
----
+# Installation using TeX&nbsp;Live manager
 
 
 

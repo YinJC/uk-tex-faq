@@ -1,7 +1,4 @@
----
-layout: page
-title: Formatting a thesis in LaTeX
----
+# Formatting a thesis in LaTeX
 
 Thesis styles are usually very specific to your University, so it's
 usually not profitable to ask around for a package outside your own

@@ -1,7 +1,4 @@
----
-layout: page
-title: Where to find FAQs
----
+# Where to find FAQs
 
 Bobby Bodenheimer's article, from which this FAQ was developed, used
 to be posted (nominally monthly) to newsgroup

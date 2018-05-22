@@ -1,7 +1,4 @@
----
-layout: page
-title: An extra ``}'??
----
+# An extra ``}'??
 
 You've looked at your LaTeX source and there's no sign of a misplaced
 ``} on the line in question.

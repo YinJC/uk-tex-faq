@@ -1,7 +1,4 @@
----
-layout: page
-title: Cancelling `\ragged` commands
----
+# Cancelling `\ragged` commands
 
 LaTeX provides commands `\raggedright` and `\raggedleft`, but
 none to cancel their effect.  The `\centering` command is

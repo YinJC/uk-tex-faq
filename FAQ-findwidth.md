@@ -1,7 +1,4 @@
----
-layout: page
-title: Finding the width of a letter, word, or phrase
----
+# Finding the width of a letter, word, or phrase
 
 Put the word in a box, and measure the width of the box. For example,
 ```latex

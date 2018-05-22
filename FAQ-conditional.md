@@ -1,7 +1,4 @@
----
-layout: page
-title: Conditional compilation and ''comments''
----
+# Conditional compilation and ''comments''
 
 While LaTeX (or any other TeX-derived package) isn't really like a
 compiler, people regularly want to do compiler-like things using it.

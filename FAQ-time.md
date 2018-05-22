@@ -1,7 +1,4 @@
----
-layout: page
-title: Printing the time
----
+# Printing the time
 
 TeX has a primitive register that contains ''the number of minutes
 since midnight''; with this knowledge it's a moderately simple

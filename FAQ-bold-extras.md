@@ -1,7 +1,4 @@
----
-layout: page
-title: How to do bold-tt or bold-sc
----
+# How to do bold-tt or bold-sc
 
 
 

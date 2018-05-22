@@ -1,7 +1,4 @@
----
-layout: page
-title: The definitions of LaTeX commands
----
+# The definitions of LaTeX commands
 
 There are several reasons to want to know the definitions of LaTeX
 commands: from the simplest ''idle curiosity'', to the pressing need

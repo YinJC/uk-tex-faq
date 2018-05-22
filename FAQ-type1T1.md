@@ -1,7 +1,4 @@
----
-layout: page
-title: Finding '8-bit' Type&nbsp;1 fonts
----
+# Finding '8-bit' Type&nbsp;1 fonts
 
 Elsewhere, answers to these FAQs recommend that you use an
 '8-bit' font to permit 

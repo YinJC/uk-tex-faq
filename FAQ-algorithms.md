@@ -1,7 +1,4 @@
----
-layout: page
-title: Typesetting pseudocode in LaTeX
----
+# Typesetting pseudocode in LaTeX
 
 There is no consensus on the 'right' way to typeset pseudocode.
 Consequently, there are a variety of LaTeX packages to choose from

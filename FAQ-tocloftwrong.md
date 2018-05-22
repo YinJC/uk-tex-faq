@@ -1,7 +1,4 @@
----
-layout: page
-title: Numbers too large in table of contents, etc.
----
+# Numbers too large in table of contents, etc.
 
 LaTeX constructs the table of contents, list of figures, tables,
 and similar tables, on the basis of a layout specified in the class.

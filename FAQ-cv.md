@@ -1,7 +1,4 @@
----
-layout: page
-title: _Curriculum Vitae_ (R&eacute;sum&eacute;)
----
+# _Curriculum Vitae_ (R&eacute;sum&eacute;)
 
 Andrej Brodnik's class, [`vita`](http://ctan.org/pkg/vita), offers a framework for producing
 a _curriculum vitae_.  The class may be customised both for

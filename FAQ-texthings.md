@@ -1,7 +1,4 @@
----
-layout: page
-title: Things with ''TeX'' in the name
----
+# Things with ''TeX'' in the name
 
 New TeX users are often baffled by the myriad terms with ''TeX''
 in the name.  The goal of this answer is to clarify some of the more

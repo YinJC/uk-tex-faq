@@ -1,7 +1,4 @@
----
-layout: page
-title: Reducing spacing in the bibliography
----
+# Reducing spacing in the bibliography
 
 Bibliographies are, in fact, implemented as lists, so all the
 confusion about [reducing list item spacing](./FAQ-complist.html) also

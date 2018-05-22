@@ -1,7 +1,4 @@
----
-layout: page
-title: What are LaTeX ''environments''
----
+# What are LaTeX ''environments''
 
 While TeX makes direct provision for commands, LaTeX adds a
 concept of ''environment''; environments perform an action on a block

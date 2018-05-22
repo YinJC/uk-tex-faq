@@ -1,7 +1,4 @@
----
-layout: page
-title: Reporting a LaTeX bug
----
+# Reporting a LaTeX bug
 
 The LaTeX team supports LaTeX, and will deal with
 _bona fide_ bug reports.  Note that the LaTeX team does

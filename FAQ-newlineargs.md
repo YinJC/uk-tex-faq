@@ -1,7 +1,4 @@
----
-layout: page
-title: Start of line goes awry
----
+# Start of line goes awry
 
 This answer concerns two sorts of problems: errors of the form
 ```latex

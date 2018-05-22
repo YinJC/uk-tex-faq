@@ -1,7 +1,4 @@
----
-layout: page
-title: Weird hyphenation of words
----
+# Weird hyphenation of words
 
 If your words are being h-yphenated, like this, with jus-t single
 letters at the 

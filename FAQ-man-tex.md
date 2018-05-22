@@ -1,7 +1,4 @@
----
-layout: page
-title: Online introductions: Plain TeX
----
+# Online introductions: Plain TeX
 
 
 

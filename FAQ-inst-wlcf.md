@@ -1,7 +1,4 @@
----
-layout: page
-title: Installing files ''where (La)TeX can find them''
----
+# Installing files ''where (La)TeX can find them''
 
 
 

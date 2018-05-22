@@ -1,7 +1,4 @@
----
-layout: page
-title: Not in outer par mode
----
+# Not in outer par mode
 
 For example:
 ```latex

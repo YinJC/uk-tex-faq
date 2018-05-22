@@ -1,7 +1,4 @@
----
-layout: page
-title: Fixed-width tables
----
+# Fixed-width tables
 
 There are two basic techniques for making fixed-width tables in
 LaTeX: you can make the gaps between the columns stretch, or you

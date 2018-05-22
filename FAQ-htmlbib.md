@@ -1,7 +1,4 @@
----
-layout: page
-title: Making HTML of your Bibliography
----
+# Making HTML of your Bibliography
 
 A neat solution is offered by the [`noTeX`](http://ctan.org/pkg/noTeX) bibliography style.
 This style produces a `bbl` file which is in fact a series of

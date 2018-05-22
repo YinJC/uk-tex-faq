@@ -1,7 +1,4 @@
----
-layout: page
-title: Code listings in LaTeX
----
+# Code listings in LaTeX
 
 'Pretty' code listings are sometimes considered worthwhile by the
 ''ordinary'' programmer, but they have a serious place in

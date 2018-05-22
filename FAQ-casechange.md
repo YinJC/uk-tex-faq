@@ -1,7 +1,4 @@
----
-layout: page
-title: Case-changing oddities
----
+# Case-changing oddities
 
 TeX provides two primitive commands `\uppercase` and
 `\lowercase` to change the case of text; they're not much used, but

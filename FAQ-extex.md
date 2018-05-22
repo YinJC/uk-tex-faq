@@ -1,7 +1,4 @@
----
-layout: page
-title: The ExTeX project
----
+# The ExTeX project
 
 [The ExTeX project](http://www.extex.org/) is
 building on the experience of the many existing TeX development and

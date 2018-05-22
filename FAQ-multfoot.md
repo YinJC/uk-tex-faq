@@ -1,7 +1,4 @@
----
-layout: page
-title: More than one sequence of footnotes
----
+# More than one sequence of footnotes
 
 The need for more than one series of footnotes is common in critical
 editions (and other literary criticism), but occasionally arises in

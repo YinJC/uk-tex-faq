@@ -1,7 +1,4 @@
----
-layout: page
-title: Setting text ragged right
----
+# Setting text ragged right
 
 The trick with typesetting ragged right is to be sure you've told the
 TeX engine ''make this paragraph ragged, but never _too_

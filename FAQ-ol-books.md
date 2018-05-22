@@ -1,7 +1,4 @@
----
-layout: page
-title: Freely available (La)TeX books
----
+# Freely available (La)TeX books
 
 
 

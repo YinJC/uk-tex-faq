@@ -1,7 +1,4 @@
----
-layout: page
-title: Conversion from SGML or HTML to TeX
----
+# Conversion from SGML or HTML to TeX
 
 SGML is a very important system for document storage and interchange,
 but it has no formatting features; its companion ISO standard

@@ -1,7 +1,4 @@
----
-layout: page
-title: Defining a macro from an argument
----
+# Defining a macro from an argument
 
 It's common to want a command to create another command: often one
 wants the new command's name to derive from an argument.  LaTeX

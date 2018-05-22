@@ -1,7 +1,4 @@
----
-layout: page
-title: Output to ''other'' printers
----
+# Output to ''other'' printers
 
 In the early years of TeX, there were masses of DVI drivers
 for any (then) imaginable kind of printer, but the steam seems rather

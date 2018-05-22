@@ -1,7 +1,4 @@
----
-layout: page
-title: Books on TeX, Plain TeX and relations
----
+# Books on TeX, Plain TeX and relations
 
 
 

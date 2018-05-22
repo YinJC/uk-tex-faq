@@ -1,7 +1,4 @@
----
-layout: page
-title: Using Plain or primitive commands in LaTeX
----
+# Using Plain or primitive commands in LaTeX
 
 It's well-known that LaTeX commands tend to be more complex, and to
 run more slowly than, any Plain TeX (or primitive) command that they

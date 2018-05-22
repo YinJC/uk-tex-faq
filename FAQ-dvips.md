@@ -1,7 +1,4 @@
----
-layout: page
-title: DVI to PostScript conversion programs
----
+# DVI to PostScript conversion programs
 
 The best public domain DVI to PostScript conversion program, which
 runs under many operating systems, is Tom Rokicki's `dvips`.

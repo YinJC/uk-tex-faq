@@ -1,7 +1,4 @@
----
-layout: page
-title: Only one `\baselineskip` per paragraph
----
+# Only one `\baselineskip` per paragraph
 
 The `\baselineskip`, which determines the space between lines, is
 not (as one might hope) a property of a line, but of a paragraph.  As

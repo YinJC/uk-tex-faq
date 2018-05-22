@@ -1,7 +1,4 @@
----
-layout: page
-title: Multiple citations
----
+# Multiple citations
 
 A convention sometimes used in physics journals is to ''collapse'' a group of
 related citations into a single entry in the bibliography.  BibTeX,

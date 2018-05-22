@@ -1,7 +1,4 @@
----
-layout: page
-title: Commercial TeX implementations
----
+# Commercial TeX implementations
 
 There are many commercial implementations of TeX. The first
 appeared not long after TeX itself appeared.

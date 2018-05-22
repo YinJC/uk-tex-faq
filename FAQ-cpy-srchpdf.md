@@ -1,7 +1,4 @@
----
-layout: page
-title: Copy-paste-able/searchable PDF files
----
+# Copy-paste-able/searchable PDF files
 
 
 

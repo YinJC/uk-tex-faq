@@ -1,7 +1,4 @@
----
-layout: page
-title: Listing all your BibTeX entries
----
+# Listing all your BibTeX entries
 
 LaTeX and BibTeX co-operate to offer special treatment of this
 requirement.  The command `\nocite{*}` is specially treated,

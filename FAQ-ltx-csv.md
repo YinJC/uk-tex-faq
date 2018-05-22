@@ -1,7 +1,4 @@
----
-layout: page
-title: Process a CSV file in LaTeX
----
+# Process a CSV file in LaTeX
 
 
 

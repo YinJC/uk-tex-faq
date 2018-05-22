@@ -1,7 +1,4 @@
----
-layout: page
-title: What are TFM files?
----
+# What are TFM files?
 
 TFM is an acronym for 'TeX Font Metrics'; TFM files hold
 information about the sizes of the characters of the font in question,

@@ -1,7 +1,4 @@
----
-layout: page
-title: How to set up page layout ''by hand''
----
+# How to set up page layout ''by hand''
 
 So you're eager to do it yourself, notwithstanding the cautions
   outlined in ''[changing margins](./FAQ-changemargin.html)''.

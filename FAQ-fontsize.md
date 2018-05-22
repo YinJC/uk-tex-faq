@@ -1,7 +1,4 @@
----
-layout: page
-title: Fonts at arbitrary sizes
----
+# Fonts at arbitrary sizes
 
 Almost all fonts, nowadays, are provided with LaTeX control
 (`fd`) files, so the temptation to risk the

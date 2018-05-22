@@ -1,7 +1,4 @@
----
-layout: page
-title: Using TeX to read SGML or XML directly
----
+# Using TeX to read SGML or XML directly
 
 [Context (mark IV)](./FAQ-context.html) can process some
 *ML, to produce typeset output directly.  Details of what can

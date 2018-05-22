@@ -91,10 +91,7 @@ function file_to_md (filename)
   
         io.output("FA" .. qid .. ".md")
         
-        io.write("---\n")
-        io.write("layout: page\n")
-        io.write("title: " .. qtitle .. "\n")
-        io.write("---\n")
+        io.write("# " .. qtitle .. "\n")
 
     end
 

@@ -1,7 +1,4 @@
----
-layout: page
-title: Version control using RCS, CVS or the like
----
+# Version control using RCS, CVS or the like
 
 If you use RCS, CVS, `Subversion`,
 `Bazaar` or `Git` to maintain

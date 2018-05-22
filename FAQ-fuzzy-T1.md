@@ -1,7 +1,4 @@
----
-layout: page
-title: Fonts go fuzzy when you switch to T1
----
+# Fonts go fuzzy when you switch to T1
 
 
 

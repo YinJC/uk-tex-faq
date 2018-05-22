@@ -1,7 +1,4 @@
----
-layout: page
-title: Zero paragraph indent
----
+# Zero paragraph indent
 
 The conventional way of typesetting running text has no separation
 between paragraphs, and the first line of each paragraph in a block of

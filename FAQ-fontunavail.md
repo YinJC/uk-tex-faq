@@ -1,7 +1,4 @@
----
-layout: page
-title: Warning: ''Font shape &hellip; not available''
----
+# Warning: ''Font shape &hellip; not available''
 
 LaTeX's font selection scheme maintains tables of the font families
 it has been told about.  These tables list the font families that

@@ -1,7 +1,4 @@
----
-layout: page
-title: Choosing a bibliography style
----
+# Choosing a bibliography style
 
 A large proportion of people are satisfied with one of Patashnik's
 original ''standard'' styles, [`plain`](http://ctan.org/pkg/plain), [`unsrt`](http://ctan.org/pkg/unsrt),

@@ -1,7 +1,4 @@
----
-layout: page
-title: Not resetting footnote numbers per chapter
----
+# Not resetting footnote numbers per chapter
 
 
 

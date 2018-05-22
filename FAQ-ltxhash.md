@@ -1,7 +1,4 @@
----
-layout: page
-title: Defining LaTeX commands within other commands
----
+# Defining LaTeX commands within other commands
 
 LaTeX command definition is significantly different from the TeX
 primitive form discussed in an 

@@ -1,7 +1,4 @@
----
-layout: page
-title: Non-letters in macro names
----
+# Non-letters in macro names
 
 New LaTeX users are often suprised that macro definitions
 containing non-letters, such as

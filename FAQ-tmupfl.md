@@ -1,7 +1,4 @@
----
-layout: page
-title: ''Too many unprocessed floats''
----
+# ''Too many unprocessed floats''
 
 If LaTeX responds to a `\begin{figure}` or
 `\begin{table}` command with the error message

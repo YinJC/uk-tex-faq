@@ -1,7 +1,4 @@
----
-layout: page
-title: What's happened to `initex`?
----
+# What's happened to `initex`?
 
 In the beginning, (La)TeX was stretching the capacity of every
 system it was ported to, so there was a premium on reducing the size

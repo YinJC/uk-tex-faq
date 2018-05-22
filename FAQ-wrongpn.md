@@ -1,7 +1,4 @@
----
-layout: page
-title: Page number is wrong at start of page
----
+# Page number is wrong at start of page
 
 This is a long story, whose sources are deep inside the workings of
 TeX itself; it all derives from the TeX's striving to generate

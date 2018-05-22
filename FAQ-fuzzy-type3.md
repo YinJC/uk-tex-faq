@@ -1,7 +1,4 @@
----
-layout: page
-title: The wrong type of fonts in PDF
----
+# The wrong type of fonts in PDF
 
 
 

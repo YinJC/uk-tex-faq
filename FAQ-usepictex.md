@@ -1,7 +1,4 @@
----
-layout: page
-title: Why can't I load PicTeX?
----
+# Why can't I load PicTeX?
 
 PicTeX is a resource hog; fortunately, most modern TeX
 implementations offer generous amounts of space, and most modern

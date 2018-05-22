@@ -1,7 +1,4 @@
----
-layout: page
-title: Imported graphics in `dvipdfm`
----
+# Imported graphics in `dvipdfm`
 
 `Dvipdfm` (and `dvipdfmx`) translates direct from
 DVI to PDF (all other available routes produce PostScript

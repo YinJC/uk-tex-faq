@@ -1,7 +1,4 @@
----
-layout: page
-title: Shortcuts to installing files
----
+# Shortcuts to installing files
 
 
 

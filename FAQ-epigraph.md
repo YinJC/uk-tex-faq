@@ -1,7 +1,4 @@
----
-layout: page
-title: Typesetting epigraphs
----
+# Typesetting epigraphs
 
 Epigraphs are those neat quotations that authors put at the start of
 chapters (or even at the end of chapters: Knuth puts things at the

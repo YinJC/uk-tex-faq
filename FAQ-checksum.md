@@ -1,7 +1,4 @@
----
-layout: page
-title: Checksum mismatch in font
----
+# Checksum mismatch in font
 
 When MetaFont generates a font it includes a checksum in the font bitmap
 file, and in the font metrics file (TFM).  (La)TeX includes

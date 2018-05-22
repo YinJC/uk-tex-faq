@@ -1,7 +1,4 @@
----
-layout: page
-title: Typesetting URLs
----
+# Typesetting URLs
 
 URLs tend to be very long, and contain characters that would
 naturally prevent them being hyphenated even if they weren't typically

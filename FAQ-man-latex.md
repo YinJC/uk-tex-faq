@@ -1,7 +1,4 @@
----
-layout: page
-title: Online introductions: LaTeX
----
+# Online introductions: LaTeX
 
 
 

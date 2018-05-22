@@ -1,7 +1,4 @@
----
-layout: page
-title: LaTeX gets cross-references wrong
----
+# LaTeX gets cross-references wrong
 
 Sometimes, however many times you run LaTeX, the cross-references
 are just wrong.  A likely reason is that you have placed the label

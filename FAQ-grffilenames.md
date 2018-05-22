@@ -1,7 +1,4 @@
----
-layout: page
-title: ''Modern'' graphics file names
----
+# ''Modern'' graphics file names
 
 TeX was designed in a world where file names were very simple
 indeed, typically strictly limited both in character set and length.

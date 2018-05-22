@@ -1,7 +1,4 @@
----
-layout: page
-title: 'String too long' in BibTeX
----
+# 'String too long' in BibTeX
 
 The BibTeX diagnostic ''Warning&ndash;you've exceeded 1000, the
 `global-string-size`, for entry `foo` usually arises

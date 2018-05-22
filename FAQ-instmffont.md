@@ -1,7 +1,4 @@
----
-layout: page
-title: Installing a font provided as MetaFont source
----
+# Installing a font provided as MetaFont source
 
 Installing Metafont fonts is (by comparison with other sorts of font) rather
 pleasingly simple.  Nowadays, they are mostly distributed just as the

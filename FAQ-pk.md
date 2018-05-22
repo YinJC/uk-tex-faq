@@ -1,7 +1,4 @@
----
-layout: page
-title: What are PK files?
----
+# What are PK files?
 
 PK files (packed raster) are the canonical form of TeX font
 bitmaps.  The output from [MetaFont](./FAQ-useMF.html) includes a generic

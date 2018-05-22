@@ -1,7 +1,4 @@
----
-layout: page
-title: Optional arguments like `\section`
----
+# Optional arguments like `\section`
 
 Optional arguments, in macros defined using `\newcommand`, don't
 quite work like the optional argument to `\section`.  The default

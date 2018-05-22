@@ -1,7 +1,4 @@
----
-layout: page
-title: What is MetaPost?
----
+# What is MetaPost?
 
 The MetaPost system (by John Hobby) implements a picture-drawing language
 very much like that of MetaFont; the difference is that MetaPost outputs

@@ -1,7 +1,4 @@
----
-layout: page
-title: No room for a new '_thing_'
----
+# No room for a new '_thing_'
 
 The technology available to Knuth at the time TeX was written is
 said to have been particularly poor at managing dynamic storage; as a

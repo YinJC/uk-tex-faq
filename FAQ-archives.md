@@ -1,7 +1,4 @@
----
-layout: page
-title: Repositories of TeX material
----
+# Repositories of TeX material
 
 To aid the archiving and retrieval of of TeX-related files, a
 TUG working group developed the Comprehensive TeX Archive

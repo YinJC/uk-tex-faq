@@ -1,7 +1,4 @@
----
-layout: page
-title: Drawing with TeX
----
+# Drawing with TeX
 
 There are many packages to do pictures in (La)TeX itself (rather than
 importing graphics created externally), ranging from simple use of

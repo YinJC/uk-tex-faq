@@ -1,7 +1,4 @@
----
-layout: page
-title: What's the reason for 'protection'?
----
+# What's the reason for 'protection'?
 
 Sometimes LaTeX saves data it will reread later. These data are
 often the argument of some command; they are the so-called moving

@@ -1,7 +1,4 @@
----
-layout: page
-title: Ellipses
----
+# Ellipses
 
 Ellipses are commonly required, and LaTeX natively supplies a fair
 range (`\dots`, `\cdots`, `\vdots` and `\ddots`).  By using

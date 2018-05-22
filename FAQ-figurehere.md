@@ -1,7 +1,4 @@
----
-layout: page
-title: Figure (or table) _exactly_ where I want it
----
+# Figure (or table) _exactly_ where I want it
 
 This is of course a contradiction: `figure` and
 `table` are _designed_ to float, and will always have

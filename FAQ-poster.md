@@ -1,7 +1,4 @@
----
-layout: page
-title: Creating posters with LaTeX
----
+# Creating posters with LaTeX
 
 There is no complete ''canned solution'' to creating a poster (as, for
 example, classes like [`seminar`](http://ctan.org/pkg/seminar), [`powerdot`](http://ctan.org/pkg/powerdot) and

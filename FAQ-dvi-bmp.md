@@ -1,7 +1,4 @@
----
-layout: page
-title: Generating bitmaps from DVI
----
+# Generating bitmaps from DVI
 
 
 

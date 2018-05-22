@@ -1,7 +1,4 @@
----
-layout: page
-title: Writing (text) files from TeX
----
+# Writing (text) files from TeX
 
 TeX allows you to write to output files from within your document.
 The facility is handy in many circumstances, but it is vital for

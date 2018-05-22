@@ -1,7 +1,4 @@
----
-layout: page
-title: Option clash for package
----
+# Option clash for package
 
 So you've innocently added:
 `\usepackage[draft]{foo}`

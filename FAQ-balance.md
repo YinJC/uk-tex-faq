@@ -1,7 +1,4 @@
----
-layout: page
-title: Balancing columns at the end of a document
----
+# Balancing columns at the end of a document
 
 The [`twocolumn`](http://ctan.org/pkg/twocolumn) option of the standard classes causes
 LaTeX to set the text of a document in two columns.  However, the last

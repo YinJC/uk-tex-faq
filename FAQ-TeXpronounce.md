@@ -1,7 +1,4 @@
----
-layout: page
-title: How should I pronounce ''TeX''?
----
+# How should I pronounce ''TeX''?
 
 The 'X' is ''really'' the Greek letter 
 Chi, and is pronounced by

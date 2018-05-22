@@ -1,7 +1,4 @@
----
-layout: page
-title: Variable-width columns in tables
----
+# Variable-width columns in tables
 
 This is a slightly different take on the problem addressed in
 ''[fixed-width tables](./FAQ-fixwidtab.html)''&nbsp;&mdash; here we have

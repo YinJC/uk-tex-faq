@@ -1,7 +1,4 @@
----
-layout: page
-title: Non-english bibliographies
----
+# Non-english bibliographies
 
 Like so much of early (La)TeX software, BibTeX's assumptions were
 firmly rooted in what its author knew well, viz., academic papers in

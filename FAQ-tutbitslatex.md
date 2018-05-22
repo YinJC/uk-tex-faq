@@ -1,7 +1,4 @@
----
-layout: page
-title: (La)TeX tutorials
----
+# (La)TeX tutorials
 
 The AMS publishes a ''Short Math Guide for LaTeX'', which is
 available (in several formats) via

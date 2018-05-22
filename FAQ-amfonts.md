@@ -1,7 +1,4 @@
----
-layout: page
-title: Where are the `am` fonts?
----
+# Where are the `am` fonts?
 
 One _still_ occasionally comes across a request for the `am`
 series of fonts.  The initials stood for 'Almost [Computer] Modern',

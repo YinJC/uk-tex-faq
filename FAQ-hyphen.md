@@ -1,7 +1,4 @@
----
-layout: page
-title: How does hyphenation work in TeX?
----
+# How does hyphenation work in TeX?
 
 Everyone knows what hyphenation is: we see it in most books we read,
 and (if we're alert) will spot occasional ridiculous mis-hyphenation

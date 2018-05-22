@@ -1,7 +1,4 @@
----
-layout: page
-title: My words aren't being hyphenated
----
+# My words aren't being hyphenated
 
 Let's assume you've selected the right TeX 'language'&nbsp;&mdash; as
 explained in [''how hyphenation works''](./FAQ-hyphen.html),

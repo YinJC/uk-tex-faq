@@ -1,7 +1,4 @@
----
-layout: page
-title: Redefining counters' `\the-`commands
----
+# Redefining counters' `\the-`commands
 
 
 

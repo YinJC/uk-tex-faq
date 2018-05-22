@@ -1,7 +1,4 @@
----
-layout: page
-title: Defining characters as macros
----
+# Defining characters as macros
 
 Single characters can act as macros (defined commands), and both
 Plain TeX and LaTeX define the character

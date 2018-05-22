@@ -1,7 +1,4 @@
----
-layout: page
-title: Master and slave counters
----
+# Master and slave counters
 
 It's common to have things numbered ''per chapter'' (for example, in
 the standard [`book`](http://ctan.org/pkg/book) and [`report`](http://ctan.org/pkg/report) classes, figures, tables

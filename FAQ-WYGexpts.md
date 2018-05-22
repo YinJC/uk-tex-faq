@@ -1,7 +1,4 @@
----
-layout: page
-title: The TeX document preparation environment
----
+# The TeX document preparation environment
 
 ''[Why TeX is not WYSIWYG](./FAQ-notWYSIWYG.html)''
 outlines the reasons (or excuses) for the huge disparity of user

@@ -1,7 +1,4 @@
----
-layout: page
-title: 'Watermarks' on every page
----
+# 'Watermarks' on every page
 
 It's often useful to place some text (such as 'DRAFT') in the
 background of every page of a document.  For LaTeX users, the

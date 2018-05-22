@@ -1,7 +1,4 @@
----
-layout: page
-title: Perhaps a missing `\item`?
----
+# Perhaps a missing `\item`?
 
 Sometimes, the error
 ```latex

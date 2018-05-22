@@ -1,7 +1,4 @@
----
-layout: page
-title: DVI drivers for HP LaserJet
----
+# DVI drivers for HP LaserJet
 
 The emTeX distribution (see [TeX systems](./FAQ-TeXsystems.html))
 contains a driver for the LaserJet, `dvihplj`.

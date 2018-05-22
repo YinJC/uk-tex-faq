@@ -1,7 +1,4 @@
----
-layout: page
-title: Symbols for the number sets
----
+# Symbols for the number sets
 
 Mathematicians commonly use special lettering for the real numbers and
 other standard number sets. Traditionally these were typeset in bold.

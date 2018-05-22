@@ -1,7 +1,4 @@
----
-layout: page
-title: Installing things on a (La)TeX system
----
+# Installing things on a (La)TeX system
 
 Installing (or replacing) things on your (La)TeX system has the
 potential to be rather complicated; the following questions attempt to

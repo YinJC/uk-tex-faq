@@ -1,7 +1,4 @@
----
-layout: page
-title: Fancy enumeration lists
----
+# Fancy enumeration lists
 
 The [`enumerate`](http://ctan.org/pkg/enumerate) package allows you to control the display of
 the enumeration counter.  The package adds an optional parameter to

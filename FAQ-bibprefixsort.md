@@ -1,7 +1,4 @@
----
-layout: page
-title: BibTeX sorting and name prefixes
----
+# BibTeX sorting and name prefixes
 
 BibTeX recognises a bewildering array of name prefixes (mostly
 those deriving from European language names); it ignores the prefixes

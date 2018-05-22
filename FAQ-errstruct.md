@@ -1,7 +1,4 @@
----
-layout: page
-title: The structure of TeX error messages
----
+# The structure of TeX error messages
 
 TeX's error messages are reminiscent of the time when TeX itself
 was conceived (the 1970s): they're not terribly user-friendly, though

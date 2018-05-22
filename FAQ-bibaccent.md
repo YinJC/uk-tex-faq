@@ -1,7 +1,4 @@
----
-layout: page
-title: Accents in bibliographies
----
+# Accents in bibliographies
 
 BibTeX not only has a tendency (by default) to mess about with the
 [case of letters in your bibliography](./FAQ-capbibtex.html),

@@ -1,7 +1,4 @@
----
-layout: page
-title: Characters missing from PDF output
----
+# Characters missing from PDF output
 
 
 

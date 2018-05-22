@@ -1,7 +1,4 @@
----
-layout: page
-title: Page numbering ''&lsaquo;_n_&rsaquo; of &lsaquo;_m_&rsaquo;''
----
+# Page numbering ''&lsaquo;_n_&rsaquo; of &lsaquo;_m_&rsaquo;''
 
 Finding the page number of the last page of a document, from within
 the document, is somewhat tricky.  The [`lastpage`](http://ctan.org/pkg/lastpage) and

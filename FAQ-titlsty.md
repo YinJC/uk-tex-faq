@@ -1,7 +1,4 @@
----
-layout: page
-title: The style of document titles
----
+# The style of document titles
 
 The [`titling`](http://ctan.org/pkg/titling) package provides a number of facilities that
 permit manipulation of the appearance of a `\maketitle` command, the

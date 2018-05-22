@@ -1,7 +1,4 @@
----
-layout: page
-title: How to ask a question
----
+# How to ask a question
 
 You want help from the community at large; you've decided where you're
 going to [ask your question](./FAQ-gethelp.html), but how do you
