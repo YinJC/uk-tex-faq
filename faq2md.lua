@@ -314,7 +314,7 @@ line=string.gsub(line,"\\cmdinvoke([%*]*)(%b{})(%b{})","`\\QQQ%2ZZZ{QQQ%3ZZZ}`")
     line=string.gsub(line,"\\Qref[*]?(%b{})(%b{})","[QQQ%1ZZZ](./FAQQQ%2ZZZ.html)")
     if string.match(line,"\\CTANref") then line = "" end 
 
-    line=string.gsub(line,"\\includegraphics[ ]*{([^{}]*%.png)}","<img alt=\"%1\" src=\"%1\">")
+    line=string.gsub(line,"\\includegraphics[ ]*{([^{}]*%.png)}","![%1](%1)")
 
     line=string.gsub(line,"\\begin{tabular}%b{}","<table><tbody>")
     line=string.gsub(line,"\\end{tabular}","</tbody></table>")
